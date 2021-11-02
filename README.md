@@ -10,7 +10,7 @@ Hosting a resume on your GitHub Pages is a great way to introduce yourself to ot
 ## Overview
 - [Prerequisites](#prerequisites)
 - [Instructions](#Instructions)
-- [Authors and Acknowledgements](#authors-and-acknowledgments)
+- [Authors and Acknowledgements](#Authors-and-Acknowledgements)
 - [FAQs](#faqs)
 -----
 ## Prerequisites
