@@ -1,2 +1,2 @@
 # Host your resume on GitHub Pages
-![](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/image.png = 100*100)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
