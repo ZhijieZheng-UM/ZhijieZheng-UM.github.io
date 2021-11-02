@@ -39,5 +39,4 @@ Caution! To ensure your GitHub Pages will show your resume properly, your resume
 1. Make sure you select public. It will allow others to see your repository.
 1. Click "Create repository" button
 
-<img src="https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/create.jpeg" alt="page"
-	title="page" width="500" height="250" />
+![create] (https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/create.jpeg)
