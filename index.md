@@ -63,21 +63,21 @@ Creative and people-oriented computer science student with extensive team projec
 ### Skills
 **SoftWare**
 :    1. Android Studio
-     1. Vim
-     1. Vscode
-     1. BlueJ
-     1. LC3
+     2. Vim
+     3. Vscode
+     4. BlueJ
+     5. LC3
 
 **Programming language**
 :    1. Java
-     1. Javascript
-     1. C
-     1. C++
-     1. LC3
-     1. Html/Css
-     1. Processing
+     2. Javascript
+     3. C
+     4. C++
+     5. LC3
+     6. Html/Css
+     7. Processing
      
 **Human language**
 :    1. English
-     1. Mandarin Chinese(native speaker)
-     1. Japanses
+     2. Mandarin Chinese(native speaker)
+     3. Japanses
