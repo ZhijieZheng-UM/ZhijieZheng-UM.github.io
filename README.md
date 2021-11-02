@@ -1,7 +1,6 @@
 # Host your resume on GitHub Pages
-----
 <img src="https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/image.png" alt="page"
-	title="page" width="500" height="250" />
+	title="page" width="500" height="350" />
 
 
 Hosting a resume on your GitHub Pages is a great way to introduce yourself to others. In addition, using a resume link to share your resume is a more efficient way rather than sharing the PDF file. In this instruction, I will show you the steps to host a resume on GitHub pages.
