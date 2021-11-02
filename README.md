@@ -53,23 +53,25 @@ Caution! To ensure your GitHub Pages will show your resume properly, your resume
 >
 >3. Select the file "index.md" in your local location.
 >
->4. Click "Commit changes" green button 
+>4. Click "Commit changes" green button
 
 Now your resume is upload to your new repository.
 
 ### Select a default Jekyll theme for your GitHub Pages
->1. Click "Settings" above the green code button
+>1. Go to your new created repository.
 >
->2. Click "Pages" on the left-hand side bar 
+>2. Click "Settings" above the green code button
 >
->3. Select main branch on the source
+>3. Click "Pages" on the left-hand side bar
 >
->4. Click "Choose a theme" button 
+>4. Select main branch on the source
 >
->5. Find a theme you like and select it.
+>5. Click "Choose a theme" button
 >
->6. Click "Select theme" button
+>6. Find a theme you like and select it.
+>
+>7. Click "Select theme" button
 
 Your resume is hosted on GitHub Pages now. You can visit it on (your user name).github.io.
-
+![](file.gif)
 Be patient, it takes few minutes to update your changes on your GitHub Pages. Since Jekyll is a static site generator and GitHub uses Jekyll to format the information in your GitHub Pages, you cannot see your changes in real-time.
