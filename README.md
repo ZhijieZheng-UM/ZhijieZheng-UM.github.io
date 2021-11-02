@@ -73,5 +73,5 @@ Now your resume is upload to your new repository.
 >7. Click "Select theme" button
 
 Your resume is hosted on GitHub Pages now. You can visit it on (your user name).github.io.
-![](file.gif)
+![](gif.gif)
 Be patient, it takes few minutes to update your changes on your GitHub Pages. Since Jekyll is a static site generator and GitHub uses Jekyll to format the information in your GitHub Pages, you cannot see your changes in real-time.
