@@ -52,7 +52,7 @@ Caution! To ensure your GitHub Pages will show your resume properly, your resume
 >
 >3. Select the file "index.md" in your local location.
 >
->4. Click [Commit changes] green button
+>4. Click "Commit changes" green button
 
 Now your resume is upload to your new repository.
 
