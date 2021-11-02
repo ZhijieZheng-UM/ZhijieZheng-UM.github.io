@@ -2,8 +2,8 @@
 ## Undergtaduate Computer Science Student
 
 
-> 71 Caribou Crescent   
-> Winnipeg, Manitoba     
+> 71 Caribou Crescent    
+> Winnipeg, Manitoba    
 > R3Y 0G3   
 > (204)590-5931 
 > Zhengz1@myumanitoba.ca  
