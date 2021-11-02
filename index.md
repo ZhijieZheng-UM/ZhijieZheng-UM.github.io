@@ -1,76 +1,83 @@
-# Johnny Coder
-
-[Modified from mszep/pandoc_resume](http://mszep.github.io/pandoc_resume/)
-
-1 MyAddress
-MyTown 1000
-MyCountry
-
-email@example.com
-@twitter_handle
-1800 my-phone-nr
+# Zhijie Zheng
+## Undergtaduate Computer Science Student
 
 
-## Education
+> 71 Caribou Crescent
+> Winnipeg, Manitoba 
+> R3Y 0G3
+> (204)590-5931
+> Zhengz1@myumanitoba.ca
 
-**2010-2014 (expected)**
-*PhD, Computer Science*; Awesome University (MyTown)
+-----
 
-Thesis title: *Deep Learning Approaches to the Self-Awesomeness Estimation Problem*
+### Profile
+Creative and people-oriented computer science student with extensive team project experience. Advanced knowledge of the creation of android software and programming languages relevant to Java. Highly effective at creative problem-solving. Exceotional interpersonal, communication and multitasking abilities.
 
-**2007-2010**
-*BSc, Computer Science and Electrical Engineering*; University of HomeTown (HomeTown)
+-----
 
-Minor: *Awesomeology*
+### Education
+**2018-2019**
+:    **Bachelor of Science, Computer Science**
+     *International College of Manitoba, Winnipeg* 
+     * Gpa: 4.00
+     * Winter 2019 Honour Roll
 
+**2019-2022 (expected)**
+:    **Bachelor of Science, Computer Science**
+     *University of Manitoba, Winnipeg*
+     * GPA: 3.65
 
-## Experience
+-----
+### Projects
+**2021.02 - 2021.05**
+:    **Student life**
+     *Project developer*
+     
+     Student life is an Android time management app for your tough student life. It can keep track of your tasks, get feedback from the time estimator, and provide you with some useful help. As a project developer, I creatively developed new features and implemented user stories. At the same time, I also did some project management to make our project easy to maintain and clean.
 
-**Your Most Recent Work Experience:**
+     *project websitite:*
+     https://code.cs.umanitoba.ca/3350-winter-2021-a01/your-internet-neighbours-group-11
 
-Short text containing the type of work done, results obtained, lessons learned and other remarks. Can also include lists and links:
+**2020.09 - 2020.11**
+:    **Online food ordering website**
+     *Web designer*
+     
+     Design a practical and compelling food ordering website using human-computer interaction knowledge to make it easier for people to order food online.
+   
+----- 
+### Volunteering
+**2015.01 - 2016.04**
+:    **Public Hospital Volunteer**
+     
+     Operate the registration system, help patients get their number and guide them to the appropriate place.
+     
+     
+-----
+### Awards
+**2019.05**
+:    **Winter 2019 Honour Roll**
+     
+     Achieved a high grade point average as a full-ime student in the International College of Manitoba.
+     
+-----    
+### Skills
+**SoftWare**
+:    1. Android Studio
+     1. Vim
+     1. Vscode
+     1. BlueJ
+     1. LC3
 
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
-
-
-## Technical Experience
-
-**My Cool Side Project**
-For items which don't have a clear time ordering, a definition list can be used to have named items.
-
-   - These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-   - Second item.
-
-**Open Source**
-List open source contributions here, perhaps placing emphasis on the project names, for example the *Linux Kernel*, where you implemented multithreading over a long weekend, or *node.js* (with [link](http://nodejs.org)) which was actually totally your idea...
-
-**Programming Languages**
-*first-lang:* Here, we have an itemization, where we only want to add descriptions to the first few items, but still want to mention some others together at the end. A format that works well here is a description list where the first few items have their first word emphasized, and the last item contains the final few emphasized terms. Notice the reasonably nice page break in the pdf version, which wouldn't happen if we generated the pdf via html.
-
-*second-lang:* Description of your experience with second-lang, perhaps again including a [link] [ref], this time placing the url reference elsewhere in the document to reduce clutter (see source file). 
-
-*obscure-but-impressive-lang:* We both know this one's pushing it.
-
-*Basic knowledge of* C, x86 assembly, forth, Common Lisp.
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-
-## Extra Section, Call it Whatever You Want
-
-**Human Languages:**
-
-   - English (native speaker)
-   - ???
-   - This is what a nested list looks like.
-
-- Random tidbit
-
-- Other sort of impressive-sounding thing you did
+**Programming language**
+:    1. Java
+     1. Javascript
+     1. C
+     1. C++
+     1. LC3
+     1. Html/Css
+     1. Processing
+     
+**Human language**
+:    1. English
+     1. Mandarin Chinese(native speaker)
+     1. Japanses
