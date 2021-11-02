@@ -22,7 +22,7 @@ Hosting a resume on your GitHub Pages is a great way to introduce yourself to ot
 ----
 ## Instructions
 
-- [Host the resume on GitHub Pages](#host-the-resume-on-gitHub-pages)
+- [Upload your resume to GitHub](#upload-your-resume-to-gitHub)
 - [Select a default Jekyll theme for your GitHub Pages](#select-a-default-jekyll-theme-for-your-gitHub-pages)
 - [Edit the default Jekyll theme](#edit-the-default-jekyll-theme)
 
@@ -32,17 +32,17 @@ Caution! To ensure your GitHub Pages will show your resume properly, your resume
 ### Upload your resume to GitHub
 
 #### Create a new repository
-1. Sign in to [GitHub](https://github.com/).
+>1. Sign in to [GitHub](https://github.com/).
 
-1. Click "repositories" to go to your repository page. There should be empty if you haven't set up a repository.
+>2. Click "repositories" to go to your repository page. There should be empty if you haven't set up a repository.
 
-1. Click the green book icon on the right-hand side of the page to create a new repository.
+>3. Click the green book icon on the right-hand side of the page to create a new repository.
 
-1. Name your repository [your user name].github.io.
+>4. Name your repository [your user name].github.io.
 
-1. Make sure you select public. It will allow others to see your repository.
+>5. Make sure you select public. It will allow others to see your repository.
 
-1. Click "Create repository" button
+>1. Click "Create repository" button
 ![create](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/create.jpeg)
 
 #### Upload your resume to your new repository
@@ -57,3 +57,4 @@ Caution! To ensure your GitHub Pages will show your resume properly, your resume
 Now your resume is upload to your new repository.
 
 #### Select a default Jekyll theme for your GitHub Pages
+
