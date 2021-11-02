@@ -85,7 +85,7 @@ Be patient, it takes few minutes to update your changes on your GitHub Pages. Si
 ----
 ## Authors and Acknowledgements
 
-Thanks to **Haseeb Paracha, Akshay Sharma, Farhan Rahman, Kien Mai** for giving me suggestions about this readme.**
+Thanks to **Haseeb Paracha, Akshay Sharma, Farhan Rahman, Kien Mai** for giving me suggestions about this readme.
 
 ----
 ## FAQs
