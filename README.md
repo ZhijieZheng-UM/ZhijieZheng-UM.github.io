@@ -10,7 +10,6 @@ Hosting a resume on your GitHub Pages is a great way to introduce yourself to ot
 ## Overview
 - [Prerequisites](#prerequisites)
 - [Instructions](#instructions)
-- [More Resources](#more-resources)
 - [Authors and Acknowledgements](#authors-and-acknowledgments)
 - [FAQs](#faqs)
 -----
@@ -19,13 +18,12 @@ Hosting a resume on your GitHub Pages is a great way to introduce yourself to ot
 * Markdown Editor: [Atom](https://atom.io/)
 * A [GitHub](https://github.com/) account
 * A resume formatted in Markdown
-* [GitHub flavoured Markdown tutorial](https://guides.github.com/features/mastering-markdown/)
 ----
 ## Instructions
 
 - [Upload your resume to GitHub](#upload-your-resume-to-gitHub)
 - [Select a default Jekyll theme for your GitHub Pages](#select-a-default-jekyll-theme-for-your-gitHub-pages)
-- [Edit the default Jekyll theme](#edit-the-default-jekyll-theme)
+- [More Resources](#more-resources)
 
 Use the tutorial I provided in [more resources](#more-resources) to format your resume in GitHub flavoured Markdown.
 
@@ -73,6 +71,26 @@ Now your resume is upload to your new repository.
 >
 >7. Click "Select theme" button
 
-Your resume is hosted on GitHub Pages now. You can visit it on (your user name).github.io.
 ![](gif.gif)
+
+Your resume is hosted on GitHub Pages now. You can visit it on (your user name).github.io.
+
 Be patient, it takes few minutes to update your changes on your GitHub Pages. Since Jekyll is a static site generator and GitHub uses Jekyll to format the information in your GitHub Pages, you cannot see your changes in real-time.
+
+### More source
+* GitHub flavoured Markdown tutorial: https://guides.github.com/features/mastering-markdown/
+* "Mordern Technical Writing" by Andrew Etter: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
+* Mike Dane's Jekyll Static Site Generator Tutorial: https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB
+
+----
+## Authors and Acknowledgements
+Thanks to **Haseeb Paracha, Akshay Sharma, Farhan Rahman, Kien Mai** for giving me suggestions about this readme.
+----
+## FAQs
+**Q:** Why is my resume not showing up?
+
+**A:** Make sure your repository is public and the resume is named index.md.
+
+**Q:** Where can I find my GitHub Pages's address?
+
+**A:** Click the gear icon on the right side of green code button in your repository. It will show up your GitHub Pages's website address.
