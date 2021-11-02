@@ -20,23 +20,40 @@ Hosting a resume on your GitHub Pages is a great way to introduce yourself to ot
 * A resume formatted in Markdown
 * [GitHub flavoured Markdown tutorial](https://guides.github.com/features/mastering-markdown/)
 ----
-## Instruction
+## Instructions
 
-- [Host the resume on GitHub Pages](#resume)
-- [Select a default Jekyll theme for your GitHub Pages](#theme)
-- [Edit the default Jekyll theme](#jekyll)
+- [Host the resume on GitHub Pages](#host-the-resume-on-gitHub-pages)
+- [Select a default Jekyll theme for your GitHub Pages](#select-a-default-jekyll-theme-for-your-gitHub-pages)
+- [Edit the default Jekyll theme](#edit-the-default-jekyll-theme)
 
-### Host the resume on GitHub Pages
 Use the tutorial I provided in [more resources](#more-resources) to format your resume in GitHub flavoured Markdown.
 
 Caution! To ensure your GitHub Pages will show your resume properly, your resume has to be saved as **index.md**.
+### Upload your resume to GitHub
 
 #### Create a new repository
 1. Sign in to [GitHub](https://github.com/).
-1. Click "repositories" to go to your repository page. There should be empty if you haven't set up a repository.
-1. Click the green book icon on the right-hand side of the page to create a new repository.
-1. Name your repository [your user name].github.io.
-1. Make sure you select public. It will allow others to see your repository.
-1. Click "Create repository" button
 
+1. Click "repositories" to go to your repository page. There should be empty if you haven't set up a repository.
+
+1. Click the green book icon on the right-hand side of the page to create a new repository.
+
+1. Name your repository [your user name].github.io.
+
+1. Make sure you select public. It will allow others to see your repository.
+
+1. Click "Create repository" button
 ![create](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/create.jpeg)
+
+#### Upload your resume to your new repository
+>1. Click the "Add file" button, then select "Upload files".
+
+>2. Click "Choose your files".
+
+>3. Select the file "index.md" in your local location.
+
+>4. Click "Commit changes" green button 
+
+Now your resume is upload to your new repository.
+
+#### Select a default Jekyll theme for your GitHub Pages
