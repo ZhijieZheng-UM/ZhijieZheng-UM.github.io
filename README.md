@@ -33,26 +33,26 @@ Caution! To ensure your GitHub Pages will show your resume properly, your resume
 
 #### Create a new repository
 >1. Sign in to [GitHub](https://github.com/).
-
+>
 >2. Click "repositories" to go to your repository page. There should be empty if you haven't set up a repository.
-
+>
 >3. Click the green book icon on the right-hand side of the page to create a new repository.
-
+>
 >4. Name your repository [your user name].github.io.
-
+>
 >5. Make sure you select public. It will allow others to see your repository.
-
->1. Click "Create repository" button
+>
+>6. Click "Create repository" button
 
 ![create](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/create.jpeg)
 
 #### Upload your resume to your new repository
 >1. Click the "Add file" button, then select "Upload files".
-
+>
 >2. Click "Choose your files".
-
+>
 >3. Select the file "index.md" in your local location.
-
+>
 >4. Click "Commit changes" green button 
 
 Now your resume is upload to your new repository.
