@@ -38,7 +38,7 @@ Caution! To ensure your GitHub Pages will show your resume properly, your resume
 >
 >3. Click the green book icon on the right-hand side of the page to create a new repository.
 >
->4. Name your repository [your user name].github.io.
+>4. Name your repository (your user name).github.io.
 >
 >5. Make sure you select public. It will allow others to see your repository.
 >
@@ -57,5 +57,19 @@ Caution! To ensure your GitHub Pages will show your resume properly, your resume
 
 Now your resume is upload to your new repository.
 
-#### Select a default Jekyll theme for your GitHub Pages
+### Select a default Jekyll theme for your GitHub Pages
+>1. Click "Settings" above the green code button
+>
+>2. Click "Pages" on the left-hand side bar 
+>
+>3. Select main branch on the source
+>
+>4. Click "Choose a theme" button 
+>
+>5. Find a theme you like and select it.
+>
+>6. Click "Select theme" button
 
+Your resume is hosted on GitHub Pages now. You can visit it on (your user name).github.io.
+
+Be patient, it takes few minutes to update your changes on your GitHub Pages. Since Jekyll is a static site generator and GitHub uses Jekyll to format the information in your GitHub Pages, you cannot see your changes in real-time.
