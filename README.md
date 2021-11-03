@@ -78,7 +78,7 @@ Your resume is hosted on GitHub Pages now. You can visit it on (your user name).
 Be patient, it takes few minutes to update your changes on your GitHub Pages. Since Jekyll is a static site generator and GitHub uses Jekyll to format the information in your GitHub Pages, you cannot see your changes in real-time.
 
 ### More Resources
-* GitHub flavoured Markdown tutorial: https://guides.github.com/features/mastering-markdown/
+* GitHub flavored Markdown tutorial: https://guides.github.com/features/mastering-markdown/
 * "Mordern Technical Writing" by Andrew Etter: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
 * Mike Dane's Jekyll Static Site Generator Tutorial: https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB
 
