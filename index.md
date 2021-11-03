@@ -30,7 +30,7 @@ Creative and people-oriented computer science student with extensive team projec
 -----
 ### Projects
 **2021.02 - 2021.05**
-:    **Student life**
+:    **Student life**<br />
      *Project developer*
 
      Student life is an Android time management app for your tough student life. It can keep track of your tasks, get feedback from the time estimator, and provide you with some useful help. As a project developer, I creatively developed new features and implemented user stories. At the same time, I also did some project management to make our project easy to maintain and clean.
@@ -39,7 +39,7 @@ Creative and people-oriented computer science student with extensive team projec
      https://code.cs.umanitoba.ca/3350-winter-2021-a01/your-internet-neighbours-group-11
 
 **2020.09 - 2020.11**
-:    **Online food ordering website**
+:    **Online food ordering website**<br />
      *Web designer*
 
      Design a practical and compelling food ordering website using human-computer interaction knowledge to make it easier for people to order food online.
