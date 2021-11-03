@@ -66,8 +66,11 @@ A GitHub repository is a kind of distributed version control system (DVCS). DVCS
 >4. Click "Commit changes" green button
 
 Now your resume is upload to your new repository.
+<br />
 
 ----
+
+<br />
 ### 2. Select a default Jekyll theme for your GitHub Pages
 ![gif](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/gif.gif)
 
