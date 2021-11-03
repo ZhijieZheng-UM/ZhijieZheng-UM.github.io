@@ -53,6 +53,8 @@ Caution! To ensure your GitHub Pages will show your resume properly, your resume
 
 A GitHub repository is a kind of distributed version control system (DVCS). DVCS has a lot of advantages. According to [Andrew Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS), It allows us for offline work and concurrent work on the same file.
 
+<br /><br />
+
 #### **Upload your resume to your new repository**
 ![upload](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/upload.gif)
 
