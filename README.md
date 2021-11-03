@@ -26,6 +26,7 @@ Hosting a resume on your GitHub Pages is a great way to introduce yourself to ot
 - [Prepare your resume in GitHub flavored Markdown](#Prepare-your-resume-in-GitHub-flavored-Markdown)
 - [Upload your resume to GitHub](#Upload-your-resume-to-GitHub)
 - [Host your GitHub Pages with a default Jekyll theme](#Host-your-GitHub-Pages-with-a-default-Jekyll-theme)
+- [Customize the default Jekyll theme](#Customize-the-default-Jekyll-theme)
 - [More Resources](#More-Resources)
 
 ### 1. Prepare your resume in GitHub flavored Markdown
