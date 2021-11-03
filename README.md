@@ -43,7 +43,7 @@ Caution! To ensure your GitHub Pages will show your resume properly, your resume
 >
 >6. Click "Create repository" button
 
-![create](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/create.jpeg)
+![](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/create.jpeg)
 
 #### Upload your resume to your new repository
 >1. Click the "Add file" button, then select "Upload files".
@@ -71,7 +71,7 @@ Now your resume is upload to your new repository.
 >
 >7. Click "Select theme" button
 
-![](gif.gif)
+![](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/gif.gif)
 
 Your resume is hosted on GitHub Pages now. You can visit it on (your user name).github.io.
 
