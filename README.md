@@ -70,8 +70,6 @@ Now your resume is upload to your new repository.
 
 ----
 
-<br />
-
 ### 2. Select a default Jekyll theme for your GitHub Pages
 ![gif](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/gif.gif)
 
