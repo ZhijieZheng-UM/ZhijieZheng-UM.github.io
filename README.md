@@ -36,7 +36,7 @@ Caution! To ensure your GitHub Pages will show your resume properly, your resume
 ----
 ### Upload your resume to GitHub
 
-#### Create a new repository
+#### **Create a new repository**
 ![create](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/create.jpeg)
 
 >1. Sign in to [GitHub](https://github.com/).
@@ -53,7 +53,7 @@ Caution! To ensure your GitHub Pages will show your resume properly, your resume
 
 A GitHub repository is a kind of distributed version control system (DVCS). DVCS has a lot of advantages. According to [Andrew Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS), It allows us for offline work and concurrent work on the same file.
 
-#### Upload your resume to your new repository
+#### **Upload your resume to your new repository**
 ![upload](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/upload.gif)
 
 >1. Click the "Add file" button, then select "Upload files".
