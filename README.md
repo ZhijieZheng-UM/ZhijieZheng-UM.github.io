@@ -100,7 +100,7 @@ Be patient, it takes a few minutes to update your changes on your GitHub Pages. 
 * **Etter's principle:** In this step, you follow [Etter's protocol](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) which is you provide a static site generator (Jekyll) with content (Markdown) and a theme, and then it processes all the content into a static website. The reason why we use the static website to host our documentation is this speed, simplicity, portability, and security.
 
 ### 4. Customize the default Jekyll theme
-* **Etter's principle:** Customization in your theme is the chance to differentiate your content from the thousands of disorganized sites. It is important to Customize your theme.
+* **Etter's principle:** Customization in your theme is the chance to differentiate your content from the thousands of disorganized sites. It is important to customize your theme.
 
 In this step, I will only show you how to change the title on your GitHub Pages. For more instructions, you can find it under "[More Resources](#More-Resources)".
 >1. Enter the repository that is hosting your resume.
