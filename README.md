@@ -2,7 +2,8 @@
 
 <img src="https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/image.png" alt="page"
 	title="page" width="500" height="250" />
-![](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/resume.gif)
+	
+![resume](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/resume.gif)
 
 ## Purpose
 Hosting a resume on your GitHub Pages is a great way to introduce yourself to others. In addition, using a resume link to share your resume is a more efficient way rather than sharing the PDF file. In this instruction, I will show you the steps to host a resume on GitHub pages.
@@ -22,16 +23,20 @@ Hosting a resume on your GitHub Pages is a great way to introduce yourself to ot
 ----
 ## Instructions
 
+- [Prepare your resume in GitHub flavored Markdown](#Prepare-your-resume-in-GitHub-flavored-Markdown)
 - [Upload your resume to GitHub](#Upload-your-resume-to-GitHub)
 - [Select a default Jekyll theme for your GitHub Pages](#Select-a-default-Jekyll-theme-for-your-GitHub-Pages)
 - [More Resources](#More-Resources)
 
-Use the tutorial I provided in [more resources](#more-resources) to format your resume in GitHub flavored Markdown.
+### Prepare your resume in GitHub flavored Markdown
+Use the tutorial I provided in [more resources](#more-resources) to format your resume in GitHub flavored Markdown. There are many flavours of Markdown. The reason why I choose GitHub flavored Markdown is popularity. Just like Andrew Etter said in ["Modern Technical Writing"](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS). 
 
 Caution! To ensure your GitHub Pages will show your resume properly, your resume has to be saved as **index.md**.
 ### Upload your resume to GitHub
 
 #### Create a new repository
+![create](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/create.jpeg)
+
 >1. Sign in to [GitHub](https://github.com/).
 >
 >2. Click "repositories" to go to your repository page. There should be empty if you haven't set up a repository.
@@ -44,7 +49,7 @@ Caution! To ensure your GitHub Pages will show your resume properly, your resume
 >
 >6. Click "Create repository" button
 
-![](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/create.jpeg)
+DVCS
 
 #### Upload your resume to your new repository
 >1. Click the "Add file" button, then select "Upload files".
@@ -72,7 +77,7 @@ Now your resume is upload to your new repository.
 >
 >7. Click "Select theme" button
 
-![](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/gif.gif)
+![gif](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/gif.gif)
 
 Your resume is hosted on GitHub Pages now. You can visit it on (your user name).github.io.
 
@@ -80,7 +85,7 @@ Be patient, it takes few minutes to update your changes on your GitHub Pages. Si
 
 ### More Resources
 * GitHub flavored Markdown tutorial: https://guides.github.com/features/mastering-markdown/
-* "Mordern Technical Writing" by Andrew Etter: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
+* "Modern Technical Writing" by Andrew Etter: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
 * Mike Dane's Jekyll Static Site Generator Tutorial: https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB
 
 ----
