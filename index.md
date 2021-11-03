@@ -57,7 +57,7 @@ Creative and people-oriented computer science student with extensive team projec
 **2019.05**
 :    **Winter 2019 Honour Roll**
 
-     Achieved a high-grade point average as a full-time student in the International College of Manitoba.
+     Achieved a high grade point average as a full-time student in the International College of Manitoba.
 
 -----    
 ### Skills
