@@ -25,7 +25,7 @@ Hosting a resume on your GitHub Pages is a great way to introduce yourself to ot
 - [Select a default Jekyll theme for your GitHub Pages](#Select-a-default-Jekyll-theme-for-your-GitHub-Pages)
 - [More Resources](#More-Resources)
 
-Use the tutorial I provided in [more resources](#more-resources) to format your resume in GitHub flavoured Markdown.
+Use the tutorial I provided in [more resources](#more-resources) to format your resume in GitHub flavored Markdown.
 
 Caution! To ensure your GitHub Pages will show your resume properly, your resume has to be saved as **index.md**.
 ### Upload your resume to GitHub
