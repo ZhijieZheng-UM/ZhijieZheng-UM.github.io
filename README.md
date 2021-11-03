@@ -71,19 +71,19 @@ Now your resume is upload to your new repository.
 ### 2. Select a default Jekyll theme for your GitHub Pages
 ![gif](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/gif.gif)
 
->1. Go to your new created repository.
->
->2. Click "Settings" above the green code button
->
->3. Click "Pages" on the left-hand side bar
->
->4. Select main branch on the source
->
->5. Click "Choose a theme" button
->
->6. Find a theme you like and select it.
->
->7. Click "Select theme" button
+1. Go to your new created repository.
+
+2. Click "Settings" above the green code button
+
+3. Click "Pages" on the left-hand side bar
+
+4. Select main branch on the source
+
+5. Click "Choose a theme" button
+
+6. Find a theme you like and select it.
+
+7. Click "Select theme" button
 
 Your resume is hosted on GitHub Pages now. You can visit it on (your user name).github.io.
 
