@@ -31,7 +31,7 @@ Hosting a resume on your GitHub Pages is a great way to introduce yourself to ot
 ### 1. Prepare your resume in GitHub flavored Markdown
 Use the tutorial I provided in [more resources](#more-resources) to format your resume in GitHub flavored Markdown.
 
-* **Etter's principle:** There are many flavours of Markdown. The reason why I choose GitHub flavored Markdown is popularity. Just like Andrew Etter said in ["Modern Technical Writing"](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
+* **Etter's principle:** There are many flavours of Markdown. The reason why I choose GitHub flavored Markdown is its popularity. Just like Andrew Etter said in ["Modern Technical Writing"](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 
 Caution! To ensure your GitHub Pages will show your resume properly, your resume has to be saved as **index.md**.
 
@@ -67,7 +67,7 @@ Caution! To ensure your GitHub Pages will show your resume properly, your resume
 >
 >4. Click `Commit changes` green button.
 
-Now your resume is upload to your new repository.
+Now your resume is uploaded to your new repository.
 
 ----
 
@@ -78,13 +78,13 @@ Now your resume is upload to your new repository.
 >
 >2. Click `Settings` above the green code button.
 >
->3. Click `Pages` on the left-hand side bar.
+>3. Click `Pages` on the left-hand sidebar.
 >
 >4. Select `main` branch under the `source` section.
 >
 >5. Select `/root` from the drop-down menu next to `main`.
 >
->6. Click `save`button.
+>6. Click `save` button.
 >
 >7. Click `Choose a theme` button.
 >
@@ -94,21 +94,21 @@ Now your resume is upload to your new repository.
 
 Your resume is hosted on GitHub Pages now. You can visit it on (your user name).github.io.
 
-Be patient, it takes few minutes to update your changes on your GitHub Pages. Since Jekyll is a static site generator and GitHub uses Jekyll to format the information in your GitHub Pages, you cannot see your changes in real-time.
+Be patient, it takes a few minutes to update your changes on your GitHub Pages. Since Jekyll is a static site generator and GitHub uses Jekyll to format the information in your GitHub Pages, you cannot see your changes in real-time.
 
-* **Etter's principle:** In this step, you follow [Etter's protocol](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) which is you provide a static site generator (Jekyll) with content (Markdown) and a theme, and then it processes all the content into a static website. The reason why we use static website to host our documentation is this speed, simplicity, portability, and security.
+* **Etter's principle:** In this step, you follow [Etter's protocol](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) which is you provide a static site generator (Jekyll) with content (Markdown) and a theme, and then it processes all the content into a static website. The reason why we use the static website to host our documentation is this speed, simplicity, portability, and security.
 
 ### 4. Customize the default Jekyll theme
 * **Etter's principle:** Customization in your theme is the chance to differentiate your content from the thousands of disorganized sites. It is important to Customize your theme.
 
-In this step, I will only show you how to change the title on your GitHub Pages. For more instructions you can find it under "[More Resources](#More-Resources)".
+In this step, I will only show you how to change the title on your GitHub Pages. For more instructions, you can find it under "[More Resources](#More-Resources)".
 >1. Enter the repository that is hosting your resume.
 >
 >2. Click `_config.yml` file. It is the format file of your theme.
 >
->3. Click the `pen` icon to edit your file
+>3. Click the `pen` icon to edit your file.
 >
->4. Add a new line and type `title: Resume`. You can change "Resume" with any words you like
+>4. Add a new line and type `title: Resume`. You can change "Resume" with any words you like.
 >
 >5. Click `Commit changes` button to save your changes.
 
