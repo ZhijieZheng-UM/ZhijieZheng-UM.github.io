@@ -17,7 +17,7 @@ Creative and people-oriented computer science student with extensive team projec
 
 ### Education
 **2018-2019**
-:    **Bachelor of Science, Computer Science.**
+:    **Bachelor of Science, Computer Science.**<br />
      *International College of Manitoba, Winnipeg*
      * Gpa: 4.00
      * Winter 2019 Honour Roll
