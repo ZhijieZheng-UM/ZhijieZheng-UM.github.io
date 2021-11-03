@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/image.png" alt="page"
 	title="page" width="500" height="250" />
-	
+
 ![resume](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/resume.gif)
 
 ## Purpose
@@ -29,9 +29,11 @@ Hosting a resume on your GitHub Pages is a great way to introduce yourself to ot
 - [More Resources](#More-Resources)
 
 ### Prepare your resume in GitHub flavored Markdown
-Use the tutorial I provided in [more resources](#more-resources) to format your resume in GitHub flavored Markdown. There are many flavours of Markdown. The reason why I choose GitHub flavored Markdown is popularity. Just like Andrew Etter said in ["Modern Technical Writing"](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS). 
+Use the tutorial I provided in [more resources](#more-resources) to format your resume in GitHub flavored Markdown. There are many flavours of Markdown. The reason why I choose GitHub flavored Markdown is popularity. Just like Andrew Etter said in ["Modern Technical Writing"](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 
 Caution! To ensure your GitHub Pages will show your resume properly, your resume has to be saved as **index.md**.
+
+----
 ### Upload your resume to GitHub
 
 #### Create a new repository
@@ -64,7 +66,10 @@ A GitHub repository is a kind of distributed version control system (DVCS). DVCS
 
 Now your resume is upload to your new repository.
 
+----
 ### Select a default Jekyll theme for your GitHub Pages
+![gif](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/gif.gif)
+
 >1. Go to your new created repository.
 >
 >2. Click "Settings" above the green code button
@@ -78,8 +83,6 @@ Now your resume is upload to your new repository.
 >6. Find a theme you like and select it.
 >
 >7. Click "Select theme" button
-
-![gif](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/gif.gif)
 
 Your resume is hosted on GitHub Pages now. You can visit it on (your user name).github.io.
 
