@@ -24,7 +24,7 @@ Hosting a resume on your GitHub Pages is a great way to introduce yourself to ot
 ## Instructions
 
 - [Prepare your resume in GitHub flavored Markdown](#Prepare-your-resume-in-GitHub-flavored-Markdown)
-- [Upload your resume to GitHub](#Upload-your-resume-to-GitHub)
+- [Upload your resume to GitHub](#upload-your-resume-to-github)
 - [Host your GitHub Pages with a default Jekyll theme](#Host-your-GitHub-Pages-with-a-default-Jekyll-theme)
 - [Customize the default Jekyll theme](#Customize-the-default-Jekyll-theme)
 - [More Resources](#More-Resources)
@@ -118,7 +118,7 @@ In this step, I will only show you how to change the title on your GitHub Pages.
 * GitHub flavored Markdown tutorial: https://guides.github.com/features/mastering-markdown/
 * "Modern Technical Writing" by Andrew Etter: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
 * Mike Dane's Jekyll Static Site Generator Tutorial: https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB
-* Jekyll template guide:https://jekyllrb.com/
+* Jekyll template guide: https://jekyllrb.com/
 
 ----
 ## Authors and Acknowledgements
