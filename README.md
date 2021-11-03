@@ -16,7 +16,7 @@ Hosting a resume on your GitHub Pages is a great way to introduce yourself to ot
 - [FAQs](#FAQs)
 -----
 ## Prerequisites
-* A computer with internet connection
+* A computer with an internet connection
 * Markdown Editor: [Atom](https://atom.io/)
 * A [GitHub](https://github.com/) account
 * A resume formatted in Markdown
