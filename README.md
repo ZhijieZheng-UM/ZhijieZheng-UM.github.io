@@ -66,7 +66,6 @@ A GitHub repository is a kind of distributed version control system (DVCS). DVCS
 >4. Click "Commit changes" green button
 
 Now your resume is upload to your new repository.
-<br />
 
 ----
 
