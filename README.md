@@ -1,6 +1,7 @@
 # Host your resume on GitHub Pages
 
-![](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/image.png)
+<img src="https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/image.png" alt="page"
+	title="page" width="500" height="250" />
 ![](https://github.com/ZhijieZheng-UM/ZhijieZheng-UM.github.io/blob/main/resume.gif)
 
 ## Purpose
