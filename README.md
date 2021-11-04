@@ -97,7 +97,7 @@ Your resume is hosted on GitHub Pages now. You can visit it on (your user name).
 
 Be patient, it takes a few minutes to update your changes on your GitHub Pages. Since Jekyll is a static site generator and GitHub uses Jekyll to format the information in your GitHub Pages, you cannot see your changes in real-time.
 
-* **Etter's principle:** In this step, you follow [Etter's protocol](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) which is you provide a static site generator (Jekyll) with content (Markdown) and a theme, and then it processes all the content into a static website. The reason why we use the static website to host our documentation is this speed, simplicity, portability, and security.
+* **Etter's principle:** In this step, you follow [Etter's protocol](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) which is you provide a static site generator (Jekyll) with content (Markdown) and a theme, and then it processes all the content into a static website. The reason why I use a static website to host my documentation is because of its speed, simplicity, portability, and security.
 
 ### 4. Customize the default Jekyll theme
 * **Etter's principle:** Customization in your theme is the chance to differentiate your content from the thousands of disorganized sites. It is important to customize your theme.
