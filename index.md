@@ -59,7 +59,7 @@ Creative and people-oriented computer science student with extensive team projec
      Achieved a high grade point average as a full-time student in the International College of Manitoba.
 
 -----    
-### Skills
+
 **Software**
 :    1. Android Studio
      2. Vim
