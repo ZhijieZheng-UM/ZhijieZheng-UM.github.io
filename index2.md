@@ -70,7 +70,7 @@ Creative and people-oriented computer science student with extensive team projec
 
 **Programming language**
 :    1. Java
-     2. Javascript
+     2. JavaScript
      3. C
      4. C++
      5. LC3
@@ -80,4 +80,4 @@ Creative and people-oriented computer science student with extensive team projec
 **Human language**
 :    1. English
      2. Mandarin Chinese (native speaker)
-     3. Japanses
+     3. Japanese
