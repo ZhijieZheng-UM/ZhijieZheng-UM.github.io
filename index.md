@@ -60,7 +60,7 @@ Creative and people-oriented computer science student with extensive team projec
 
 -----    
 
-**Software**
+### Software
 :    1. Android Studio
      2. Vim
      3. Vscode
