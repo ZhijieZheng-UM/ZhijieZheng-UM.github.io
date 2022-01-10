@@ -61,21 +61,30 @@ Creative and people-oriented computer science student with extensive team projec
 
 -----    
 ### Skills
+**Coding Skills**
+:    1. Java
+     2. JavaScript
+     3. C/C++
+     4. Processing
+     5. Html/Css
+     6. LC3
+  
+**Interpersonal Skills**
+:    1. Critically Analyze
+     2. Teamwork
+     3. Attention to Detail
+     4. Fast Learner
+     5. Problem-solving
+     6. Time Management  
+     
 **Software**
 :    1. Microsoft Office
-     2. Linux/Unix Remote Server
-     3. Android Studio
+     2. Android Studio
+     3. Vscode
      4. Vim
-     5. Vscode
-     6. LC3
-
-**Interpersonal Skills**
-:    1. Teamwork
-     2. Fast Learner
-     3. Problem-solving
-     4. Time Management
+     5. Linux/Unix Remote Server
 
 **Languages**
 :    1. English
      2. Mandarin Chinese (Native)
-     3. Japanses
+     3. Japanese
