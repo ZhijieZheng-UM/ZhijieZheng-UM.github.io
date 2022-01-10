@@ -61,6 +61,7 @@ Creative and people-oriented computer science student with extensive team projec
 
 -----    
 ### Skills
+****:
      1. Fast Learner
      2. Teamwork
      3. Creative Problem Solving
@@ -68,6 +69,7 @@ Creative and people-oriented computer science student with extensive team projec
      5. Microsoft Office
 
 ### Language
+****:
      1. English
      2. Mandarin Chinese (Native Speaker)
      3. Japanses
