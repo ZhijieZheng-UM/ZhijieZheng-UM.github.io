@@ -79,5 +79,5 @@ Creative and people-oriented computer science student with extensive team projec
 
 **Human language**
 :    1. English
-     2. Mandarin Chinese (native speaker)
+     2. Mandarin Chinese (Native)
      3. Japanese
