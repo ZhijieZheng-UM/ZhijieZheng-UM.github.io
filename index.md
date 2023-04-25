@@ -9,12 +9,10 @@
 > Zheng.Zhijie@hotmail.com 
  
 -----
-
 ### Profile
 Creative and people-oriented computer science student with extensive team project experience. Advanced knowledge of the creation of android software and programming languages relevant to Java. Highly effective at creative problem-solving. Exceptional interpersonal, communication and multitasking abilities.
 
 -----
-
 ### Education
 **2018-2019**
 :    **Bachelor of Science, Computer Science**<br />
@@ -51,15 +49,13 @@ Creative and people-oriented computer science student with extensive team projec
      *SkipTheDishes*
      
      Deliver food products in accordance with all sanitation, safety principles and an excellent professional attitude. Verify customers' online food orders and deliver them on time with a happy smile.
-     
-     
+       
 -----
 ### Volunteering
 **2015.01 - 2016.04**
 :    **Public Hospital Volunteer**
 
      Operate the registration system, help patients get their number and guide them to the appropriate place.
-
 
 -----
 ### Awards
