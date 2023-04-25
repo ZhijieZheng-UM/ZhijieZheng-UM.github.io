@@ -48,7 +48,7 @@ Creative and people-oriented computer science student with extensive team projec
 :    **Courier**<br />
      *SkipTheDishes*
      
-     Deliver food products in accordance with all sanitation, safety principles and an excellent professional attitude. Verify customers' online food orders and deliver them on time with a happy smile.
+     Deliver food products in accordance with all sanitation, and safety principles. Verify customers’ online food orders and deliver them on time with an excellent professional attitude.
        
 -----
 ### Volunteering
