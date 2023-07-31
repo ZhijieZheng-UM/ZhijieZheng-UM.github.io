@@ -10,7 +10,7 @@
  
 -----
 ### Profile
-Dedicated and detail-oriented computer science student with extensive team project experience. Highly effective at problem-solving and multitasking abilities. Focus on teamwork and get the job done efficiently in the shortest possible time. Advanced ability to drive both automatic and manual transmission cars. 
+Dedicated and detail-oriented computer science student with extensive team project experience. Highly effective at problem-solving and multitasking abilities. Having a strong work ethic, and enthusiasm for automotive excellence. Focus on teamwork and get the job done efficiently in the shortest possible time. Holding a valid driver's license with a clean driving record. Able to drive both automatic and manual transmission cars. 
 
 -----
 ### Education
