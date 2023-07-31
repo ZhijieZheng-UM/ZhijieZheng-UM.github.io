@@ -10,7 +10,7 @@
  
 -----
 ### Profile
-Creative and people-oriented computer science student with extensive team project experience. Advanced knowledge of the creation of android software and programming languages relevant to Java. Highly effective at creative problem-solving. Exceptional interpersonal, communication and multitasking abilities.
+Dedicated and detail-oriented computer science student with extensive team project experience. Highly effective at problem-solving and multitasking abilities. Focus on teamwork and get the job done efficiently in the shortest possible time. Advanced ability to drive both automatic and manual transmission cars. 
 
 -----
 ### Education
