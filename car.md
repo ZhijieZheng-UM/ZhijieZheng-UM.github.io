@@ -10,7 +10,7 @@
  
 -----
 ### Profile
-Dedicated and detail-oriented computer science student with extensive team project experience. Highly effective at problem-solving and multitasking abilities. Having a strong work ethic, and enthusiasm for automotive excellence. Focus on teamwork and get the job done efficiently in the shortest possible time. Holding a valid driver's license with a clean driving record. Able to drive both automatic and manual transmission cars. 
+Dedicated and detail-oriented new graduate computer science student with extensive team project experience. Highly effective at problem-solving and multitasking abilities. Having a strong work ethic, and enthusiasm for automotive excellence. Focus on teamwork and get the job done efficiently in the shortest possible time. Holding a valid driver's license with a clean driving record. Able to drive both automatic and manual transmission cars. 
 
 -----
 ### Education
@@ -38,7 +38,7 @@ Dedicated and detail-oriented computer science student with extensive team proje
 **2015.01 - 2016.04**
 :    **Public Hospital Volunteer**
 
-     Operate the registration system, help patients get their number and guide them to the appropriate place.
+     Operate the registration system, help patients get their numbers and guide them to the appropriate place.
      
 -----
 ### Projects
