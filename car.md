@@ -10,7 +10,7 @@
  
 -----
 ### Profile
-Dedicated and detail-oriented new graduate computer science student with extensive team project experience. Highly effective at problem-solving and multitasking abilities. Having a strong work ethic, and enthusiasm for automotive excellence. Focus on teamwork and get the job done efficiently in the shortest possible time. Holding a valid driver's license with a clean driving record. Able to drive both automatic and manual transmission cars. 
+Dedicated and detail-oriented new graduate computer science student with extensive team project experience. Highly effective at problem-solving and multitasking abilities. Having a strong work ethic, enthusiasm for automobiles and always willing to learn. Focus on teamwork and get the job done efficiently in the shortest possible time. Holding a valid driver's license with a clean driving record. Able to drive both automatic and manual transmission cars. 
 
 -----
 ### Education
@@ -59,7 +59,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 **2019.05**
 :    **Winter 2019 Honour Roll**
 
-     Achieved a high grade point average as a full-time student in the International College of Manitoba.
+     Achieved a high grade point average as a full-time student at the International College of Manitoba.
 
 -----    
 ### Skills
@@ -73,6 +73,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      
 **Life Skill**
 :    1. Clean Class 5 driver's license
+     2. Familiar with pressure washers and vacuum
 
 **Software**
 :    1. Microsoft Office
