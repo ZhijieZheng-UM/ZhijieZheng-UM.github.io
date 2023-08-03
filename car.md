@@ -59,22 +59,22 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 **2019.05**
 :    **Winter 2019 Honour Roll**
 
-     Achieved a high grade point average as a full-time student at the International College of Manitoba.
+     Achieved a high GPA as a full-time student at the International College of Manitoba.
 
 -----    
 ### Skills
-**Interpersonal Skills**
-:    1. Critically Analyses
-     2. Teamwork
-     3. Attention to Detail
-     4. Fast Learner
-     5. Problem-solving
-     6. Time Management
+:    ·  Hold a valid Class 5 driver's license with a clean driving record
+     ·  Capable of driving both automatic and manual transmission vehicles with confidence and expertise 
+     ·  Familiar with operating pressure washers and vacuum cleaners, ensuring thorough and efficient cleaning processes
+     ·  Own a reliable vehicle ensuring punctuality and dependability for daily commute to work
      
-**Life Skill**
-:    1. Clean Class 5 driver's license
-     2. Familiar with pressure washers and vacuum
-
+**Soft Skills**
+:    ·  Attention to Detail
+     ·  Teamwork
+     ·  Problem-solving
+     ·  Time Management
+     ·  Fast Learner
+     
 **Software**
 :    1. Microsoft Office
      2. Linux/Unix Remote Server
