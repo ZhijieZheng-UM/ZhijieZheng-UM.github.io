@@ -10,7 +10,7 @@
  
 -----
 ### Profile
-Dedicated and detail-oriented new graduate computer science student with extensive team project experience. Highly effective at problem-solving and multitasking abilities. Having a strong work ethic, enthusiasm for automobiles and always willing to learn. Focus on teamwork and get the job done efficiently in the shortest possible time. Holding a valid driver's license with a clean driving record. Able to drive both automatic and manual transmission cars. 
+Dedicated and detail-oriented new graduate computer science student with extensive team project experience. Highly effective at problem-solving and multitasking abilities. Having a strong work ethic, enthusiasm for automobiles and always willing to learn. Focus on teamwork and get the job done efficiently in the shortest possible time. Holding a valid driver's license with a clean driving record. Capable of driving both automatic and manual transmission vehicles with confidence and expertise.
 
 -----
 ### Education
@@ -36,7 +36,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 ### Skills
 **Ability**
 :    *   Hold a valid Class 5 driver's license with a clean driving record
-     *   Capable of driving both automatic and manual transmission vehicles with confidence and expertise 
+     *   Able to drive both automatic and manual transmission vehicles 
      *   Familiar with operating pressure washers and vacuum cleaners, ensuring thorough and efficient cleaning processes
      *   Own a reliable vehicle ensuring punctuality and dependability for daily commute to work
      
