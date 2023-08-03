@@ -63,28 +63,28 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 
 -----    
 ### Skills
-**Soft Skills**
+**Skills**
 :
-     1.  Hold a valid Class 5 driver's license with a clean driving record
-     2.  Capable of driving both automatic and manual transmission vehicles with confidence and expertise 
-     3.  Familiar with operating pressure washers and vacuum cleaners, ensuring thorough and efficient cleaning processes
-     4.  Own a reliable vehicle ensuring punctuality and dependability for daily commute to work
+     *   Hold a valid Class 5 driver's license with a clean driving record
+     *   Capable of driving both automatic and manual transmission vehicles with confidence and expertise 
+     *   Familiar with operating pressure washers and vacuum cleaners, ensuring thorough and efficient cleaning processes
+     *   Own a reliable vehicle ensuring punctuality and dependability for daily commute to work
      
 **Soft Skills**
-:    1.  Attention to Detail
-     2.  Teamwork
-     3.  Problem-solving
-     4.  Time Management
-     5.  Fast Learner
+:    *   Attention to Detail
+     *   Teamwork
+     *   Problem-solving
+     *   Time Management
+     *   Fast Learner
      
 **Software**
-:    1. Microsoft Office
-     2. Linux/Unix Remote Server
-     3. Vim
-     4. Android Studio
-     5. Vscode
+:    *  Microsoft Office
+     *  Linux/Unix Remote Server
+     *  Vim
+     *  Android Studio
+     *  Vscode
 
 **Languages**
-     * English
-     * Mandarin Chinese (Native)
-     * Japanese
+:    *  English
+     *  Mandarin Chinese (Native)
+     *  Japanese
