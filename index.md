@@ -77,11 +77,10 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      *   Fast Learner
      
 **Software**
-:    *  Microsoft Office
+:    *  Microsoft Office and Outlook
+     *  Google Doc
      *  Linux/Unix Remote Server
-     *  Vim
-     *  Android Studio
-     *  Vscode
+     *  Database Management
 
 **Languages**
 :    *  English
