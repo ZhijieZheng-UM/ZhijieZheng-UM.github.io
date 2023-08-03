@@ -25,6 +25,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      *University of Manitoba, Winnipeg*
      * GPA: 3.8
      
+-----     
 ### Awards
 **2019.05**
 :    **Winter 2019 Honour Roll**
