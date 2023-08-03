@@ -63,7 +63,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 
 -----    
 ### Skills
-**Skills**
+**Ability**
 :    *   Hold a valid Class 5 driver's license with a clean driving record
      *   Capable of driving both automatic and manual transmission vehicles with confidence and expertise 
      *   Familiar with operating pressure washers and vacuum cleaners, ensuring thorough and efficient cleaning processes
