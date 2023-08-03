@@ -19,7 +19,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      *International College of Manitoba, Winnipeg*
      * Gpa: 4.00
      * Winter 2019 Honour Roll
-     : * Achieved a high GPA as a full-time student at the International College of Manitoba.
+     : Achieved a high GPA as a full-time student at the International College of Manitoba.
 
 **2019-2023**
 :    **Bachelor of Science, Computer Science**<br />
