@@ -85,6 +85,6 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      5. Vscode
 
 **Languages**
-:    * English
+     * English
      * Mandarin Chinese (Native)
      * Japanese
