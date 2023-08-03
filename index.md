@@ -25,7 +25,39 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      *University of Manitoba, Winnipeg*
      * GPA: 3.8
      
+### Awards
+**2019.05**
+:    **Winter 2019 Honour Roll**
+
+     Achieved a high GPA as a full-time student at the International College of Manitoba.
+
 -----
+### Skills
+**Ability**
+:    *   Hold a valid Class 5 driver's license with a clean driving record
+     *   Capable of driving both automatic and manual transmission vehicles with confidence and expertise 
+     *   Familiar with operating pressure washers and vacuum cleaners, ensuring thorough and efficient cleaning processes
+     *   Own a reliable vehicle ensuring punctuality and dependability for daily commute to work
+     
+**Soft Skills**
+:    *   Attention to Detail
+     *   Teamwork
+     *   Problem-solving
+     *   Time Management
+     *   Fast Learner
+     
+**Software**
+:    *  Microsoft Office and Outlook
+     *  Google Doc
+     *  Linux/Unix Remote Server
+     *  Database Management
+
+**Languages**
+:    *  English
+     *  Mandarin Chinese (Native)
+     *  Japanese
+
+----- 
 ### Experience
 **2022.03 - Present**
 :    **Courier**<br />
@@ -53,36 +85,3 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      *Web designer*
 
      Design a practical and compelling food ordering website using human-computer interaction knowledge to make it easier for people to order food online.
-
------
-### Awards
-**2019.05**
-:    **Winter 2019 Honour Roll**
-
-     Achieved a high GPA as a full-time student at the International College of Manitoba.
-
------    
-### Skills
-**Ability**
-:    *   Hold a valid Class 5 driver's license with a clean driving record
-     *   Capable of driving both automatic and manual transmission vehicles with confidence and expertise 
-     *   Familiar with operating pressure washers and vacuum cleaners, ensuring thorough and efficient cleaning processes
-     *   Own a reliable vehicle ensuring punctuality and dependability for daily commute to work
-     
-**Soft Skills**
-:    *   Attention to Detail
-     *   Teamwork
-     *   Problem-solving
-     *   Time Management
-     *   Fast Learner
-     
-**Software**
-:    *  Microsoft Office and Outlook
-     *  Google Doc
-     *  Linux/Unix Remote Server
-     *  Database Management
-
-**Languages**
-:    *  English
-     *  Mandarin Chinese (Native)
-     *  Japanese
