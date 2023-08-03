@@ -63,6 +63,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 
 -----    
 ### Skills
+**Soft Skills**
 :
      1.  Hold a valid Class 5 driver's license with a clean driving record
      2.  Capable of driving both automatic and manual transmission vehicles with confidence and expertise 
@@ -70,11 +71,11 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      4.  Own a reliable vehicle ensuring punctuality and dependability for daily commute to work
      
 **Soft Skills**
-:    ·  Attention to Detail
-     ·  Teamwork
-     ·  Problem-solving
-     ·  Time Management
-     ·  Fast Learner
+:    1.  Attention to Detail
+     2.  Teamwork
+     3.  Problem-solving
+     4.  Time Management
+     5.  Fast Learner
      
 **Software**
 :    1. Microsoft Office
@@ -84,6 +85,6 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      5. Vscode
 
 **Languages**
-:       English
-        Mandarin Chinese (Native)
-        Japanese
+:    * English
+     * Mandarin Chinese (Native)
+     * Japanese
