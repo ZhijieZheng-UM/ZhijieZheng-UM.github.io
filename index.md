@@ -44,9 +44,9 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 **Software**
 :    *  Microsoft Office and Outlook
      *  Google Doc
-     *  Linux/Unix Remote Server
      *  Database Management
-
+     *  Linux/Unix Remote Server
+     
 **Languages**
 :    *  English
      *  Mandarin Chinese (Native)
