@@ -19,18 +19,19 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      *International College of Manitoba, Winnipeg*
      * Gpa: 4.00
      * Winter 2019 Honour Roll
-     : Achieved a high GPA as a full-time student at the International College of Manitoba
+     : Demonstrated strong academic performance as a full-time student
 
 **2019-2023**
 :    **Bachelor of Science, Computer Science**<br />
      *University of Manitoba, Winnipeg*
      * GPA: 3.8
+     * Active participant in computer science-related projects and activities
     
 -----
 ### Skills
 **Ability**
 :    *   Hold a valid Class 5 driver's license with a clean driving record.
-     *   Able to drive both automatic and manual transmission vehicles with confidence.
+     *   Confident in driving both automatic and manual transmission vehicles.
      *   Familiar with operating pressure washers and vacuum cleaners, ensuring thorough and efficient cleaning processes.
      *   Own a reliable vehicle and maintain it properly, ensuring punctuality and dependability for daily commute to work.
      
@@ -39,7 +40,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      *   Teamwork
      *   Problem-solving
      *   Time Management
-     *   Fast Learner
+     *   Quick Learner
      
 **Software**
 :    *  Microsoft Office (Word, Excel, Powerpoint)
