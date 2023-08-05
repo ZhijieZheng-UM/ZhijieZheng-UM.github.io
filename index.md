@@ -42,8 +42,9 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      *   Fast Learner
      
 **Software**
-:    *  Microsoft Office and Outlook
-     *  Google Doc
+:    *  Microsoft Office (Word, Excel, Powerpoint)
+     *  Google Drive (Docs, Sheets, Slides, Forms))
+     *  Outlook and Gmail
      *  Database Management
      *  Linux/Unix Remote Server
      
