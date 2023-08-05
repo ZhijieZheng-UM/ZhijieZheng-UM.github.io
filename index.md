@@ -69,9 +69,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      * Provided exceptional customer service by operating the registration system, assisting patients with acquiring numbers, and guiding them to their respective destinations.
      * Demonstrated strong communication skills in interacting with patients, answering inquiries, and ensuring a smooth and pleasant experience for hospital visitors.
      * Collaborated effectively with hospital staff and volunteers to optimize patient flow and minimize waiting times.
-     * Assisted an average of [insert number] patients daily, efficiently managing the registration process and reducing wait times by [insert percentage].
-     * Developed strong organizational skills in maintaining a well-structured and welcoming guide desk area.
-     
+    
 -----
 ### Projects
 **2021.02 - 2021.05**
