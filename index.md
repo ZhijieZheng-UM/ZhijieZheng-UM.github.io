@@ -58,7 +58,11 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 :    **Courier**<br />
      *SkipTheDishes*
      
-     Deliver food products in accordance with all sanitation, and safety principles. Verify customers’ online food orders and deliver them on time with an excellent professional attitude.
+     * Delivered food products to numerous customers, ensuring adherence to all sanitation and safety guidelines.
+     * Successfully completed an average of [insert number] deliveries per day, demonstrating strong time management and organizational skills.
+     * Verified customers' online food orders with meticulous attention to detail, ensuring accuracy in the delivery process.
+     * Earned consistent positive feedback from customers, showcasing excellent customer service and a professional attitude.
+     * Utilized problem-solving skills to navigate efficiently and find optimal routes for on-time deliveries.
      
 -----
 ### Volunteering
