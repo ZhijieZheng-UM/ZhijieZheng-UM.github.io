@@ -63,9 +63,14 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 -----
 ### Volunteering
 **2015.01 - 2016.04**
-:    **Public Hospital Volunteer**
+:    **Guide Desk volunteer**<br />
+     *Shanghai Pudong Hospital*
 
-     Operate the registration system, help patients get their numbers and guide them to the appropriate place.
+     * Provided exceptional customer service by operating the registration system, assisting patients with acquiring numbers, and guiding them to their respective destinations.
+     * Demonstrated strong communication skills in interacting with patients, answering inquiries, and ensuring a smooth and pleasant experience for hospital visitors.
+     * Collaborated effectively with hospital staff and volunteers to optimize patient flow and minimize waiting times.
+     * Assisted an average of [insert number] patients daily, efficiently managing the registration process and reducing wait times by [insert percentage].
+     * Developed strong organizational skills in maintaining a well-structured and welcoming guide desk area.
      
 -----
 ### Projects
