@@ -29,10 +29,10 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 -----
 ### Skills
 **Ability**
-:    *   Hold a valid Class 5 driver's license with a clean, accident-free driving record
-     *   Able to drive both automatic and manual transmission vehicles with confidence 
-     *   Familiar with operating pressure washers and vacuum cleaners, ensuring thorough and efficient cleaning processes
-     *   Own a reliable vehicle and maintain it properly, ensuring punctuality and dependability for daily commute to work
+:    *   Hold a valid Class 5 driver's license with a clean, accident-free driving record.
+     *   Able to drive both automatic and manual transmission vehicles with confidence.
+     *   Familiar with operating pressure washers and vacuum cleaners, ensuring thorough and efficient cleaning processes.
+     *   Own a reliable vehicle and maintain it properly, ensuring punctuality and dependability for daily commute to work.
      
 **Soft Skills**
 :    *   Attention to Detail
@@ -58,10 +58,10 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 :    **Courier**<br />
      *SkipTheDishes*
      
-     * Delivered food products to numerous customers, ensuring adherence to all sanitation and safety guidelines
-     * Verified customers' online food orders with meticulous attention to detail, ensuring accuracy in the delivery process
-     * Earned consistent positive feedback from customers, showcasing excellent customer service and a professional attitude
-     * Utilized problem-solving skills to navigate efficiently and find optimal routes for on-time deliveries
+     * Delivered food products to numerous customers, ensuring adherence to all sanitation and safety guidelines.
+     * Verified customers' online food orders with meticulous attention to detail, ensuring accuracy in the delivery process.
+     * Earned consistent positive feedback from customers, showcasing excellent customer service and a professional attitude.
+     * Utilized problem-solving skills to navigate efficiently and find optimal routes for on-time deliveries.
      
 -----
 ### Volunteering
@@ -69,9 +69,9 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 :    **Guide Desk volunteer**<br />
      *Shanghai Pudong Hospital*
 
-     * Provided exceptional customer service by operating the registration system, assisting patients with acquiring numbers, and guiding them to their respective destinations
-     * Demonstrated strong communication skills in interacting with patients, answering inquiries, and ensuring a smooth and pleasant experience for hospital visitors
-     * Collaborated effectively with hospital staff and volunteers to optimize patient flow and minimize waiting times
+     * Provided exceptional customer service by operating the registration system, assisting patients with acquiring numbers, and guiding them to their respective destinations.
+     * Demonstrated strong communication skills in interacting with patients, answering inquiries, and ensuring a smooth and pleasant experience for hospital visitors.
+     * Collaborated effectively with hospital staff and volunteers to optimize patient flow and minimize waiting times.
     
 -----
 ### Projects
