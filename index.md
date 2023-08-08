@@ -36,11 +36,11 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      *   Own a reliable vehicle and maintain it properly, ensuring punctuality and dependability for daily commute to work.
      
 **Soft Skills**
-:    *   Attention to Detail
-     *   Teamwork
-     *   Problem-solving
-     *   Time Management
-     *   Quick Learner
+:    *   Attentive to detail, ensuring precision in all tasks
+     *   Strong team player, capable of collaborating effectively with others
+     *   Exceptional problem-solving abilities to overcome challenges
+     *   Efficient time management, ensuring timely completion of projects
+     *   Quick learner, adaptable to new technologies and methodologies
      
 **Software**
 :    *  Microsoft Office (Word, Excel, Powerpoint)
