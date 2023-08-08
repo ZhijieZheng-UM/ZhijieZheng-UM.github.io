@@ -29,17 +29,17 @@ Dedicated and detail-oriented new graduate with a strong work ethic and a passio
 -----
 ### Skills
 **Ability**
-:    *   Valid Class 5 driver's license with a clean record.
-     *   Proficient in driving both automatic and manual transmission vehicles.
+:    *   Valid Class 5 driver's license with a clean record, enabling safe and responsible vehicle movement.
+     *   Skilled in driving both automatic and manual transmission vehicles, allowing for a wide range of vehicles to be handled efficiently.
      *   Familiar with operating pressure washers and vacuum cleaners, ensuring thorough and efficient cleaning
 processes.
      *   Own a reliable vehicle and maintain it properly, ensuring punctuality and dependability for daily commute to work.
      
 **Soft Skills**
-:    *   Attentive to detail, ensuring precision in every task.
+:    *   Excellent attention to detail, ensuring every vehicle receives a meticulous and thorough cleaning.
+     *   Strong work ethic, able to work diligently with minimal supervision, managing time effectively to meet tight cleaning schedules and prioritize tasks accordingly.
+     *   Ability to adapt to changing situations and willingness to take on new challenges.
      *   Strong team player, capable of collaborating effectively with others.
-     *   Exceptional problem-solving abilities to overcome challenges.
-     *   Efficient time management, ensuring timely completion of projects.
      *   Quick learner, adaptable to new technologies and methodologies.
      
 **Software**
