@@ -56,6 +56,14 @@ processes.
      
 ----- 
 ### Experience
+**2020 - Present**
+:    **Car Detailing Enthusiast**<br />
+     *Self-Directed Experience*
+     
+     * Personally maintained and detailed own vehicle, demonstrating a commitment to cleanliness and upkeep.
+     * Applied attention to detail in the cleaning of both interior and exterior surfaces.
+     * Developed effective cleaning routines to ensure consistent results.
+
 **Mar 2022 - Present**
 :    **Courier**<br />
      *SkipTheDishes*
@@ -64,7 +72,7 @@ processes.
      * Verified customers' online food orders with meticulous attention to detail, ensuring accuracy in the delivery process.
      * Earned consistent positive feedback for excellent customer service and professionalism.
      * Utilized problem-solving skills to navigate efficiently and find optimal routes for on-time deliveries.
-     
+  
 -----
 ### Volunteering
 **Jan 2015 - Apr 2016**
