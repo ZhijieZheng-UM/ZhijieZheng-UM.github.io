@@ -47,7 +47,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      *  Google Drive (Docs, Sheets, Slides, Forms)
      *  Outlook and Gmail
      *  Database Management
-     *  Linux/Unix Remote Server\\
+     *  Linux/Unix Remote Server<br /> <br />
 
 **Languages**
 :    *  English
