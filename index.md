@@ -6,8 +6,7 @@
 > Winnipeg, Manitoba    
 > R3Y 0G3       
 > (204)590-5931     
-> Zheng.Zhijie@hotmail.com 
- 
+> Zheng.Zhijie@hotmail.com
 -----
 ### Objective
 Dedicated and detail-oriented new graduate computer science student with extensive team project experience. Highly effective at problem-solving and multitasking abilities. Having a strong work ethic, enthusiasm for automobiles and always willing to learn. Focus on teamwork and get the job done efficiently in the shortest possible time. Holding a valid driver's license with a clean driving record. Capable of driving both automatic and manual transmission vehicles with confidence and expertise.
@@ -47,7 +46,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      *  Google Drive (Docs, Sheets, Slides, Forms)
      *  Outlook and Gmail
      *  Database Management
-     *  Linux/Unix Remote Server<br /> <br />
+     *  Linux/Unix Remote Server
 
 **Languages**
 :    *  English
