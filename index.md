@@ -9,8 +9,7 @@
 
 -----
 ### Objective
-Dedicated and detail-oriented new graduate computer science student with extensive team project experience. Highly effective at problem-solving and multitasking. Having a strong work ethic, enthusiasm for automobiles and always willing to learn. Adept at collaborating within teams to achieve efficient results.  Possesses a valid driver's license with a clean driving record. Capable of driving both automatic and manual transmission vehicles with confidence and expertise.
-
+Dedicated and detail-oriented new graduate with a strong work ethic and a passion for automobiles. Offering meticulous attention to detail, effective problem-solving and multitasking. Adept at collaborating within teams to achieve efficient results and committed to continuous learning. Possesses a valid driver's license with a clean driving record. Capable of driving both automatic and manual transmission vehicles with confidence and expertise.
 
 -----
 ### Education
@@ -60,9 +59,9 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 :    **Courier**<br />
      *SkipTheDishes*
      
-     * Delivered food products to numerous customers, ensuring adherence to all sanitation and safety guidelines.
+     * Ensured timely deliveries while adhering to sanitation and safety guidelines.
      * Verified customers' online food orders with meticulous attention to detail, ensuring accuracy in the delivery process.
-     * Earned consistent positive feedback from customers, showcasing excellent customer service and a professional attitude.
+     * Earned consistent positive feedback for excellent customer service and professionalism.
      * Utilized problem-solving skills to navigate efficiently and find optimal routes for on-time deliveries.
      
 -----
