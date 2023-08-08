@@ -8,3 +8,11 @@
      * Ensured compliance with web accessibility standards, making the website inclusive and accessible to users with diverse needs.
      * Collaborated with content creators to ensure that the website's content was well-organized and effectively presented, contributing to a cohesive user journey.
      * Demonstrated a strong understanding of design principles and trends, resulting in a website that effectively meets user needs and aligns with industry standards.
+ 
+     * Spearheaded the refinement of the website's design through meticulous attention to detail.
+     * Led usability testing initiatives to gain valuable insights from users, facilitating iterative design improvements.
+     * Skillfully gathered and analyzed user feedback, translating insights into actionable design enhancements.
+     * Achieved substantial enhancements in user satisfaction and engagement by implementing user-driven refinements.
+     * Collaborated closely with cross-functional teams to integrate user feedback, resulting in a more intuitive and appealing user experience.
+     * Demonstrated a commitment to continuous improvement by leveraging user insights to inform design decisions.
+     * Upheld a user-centered design philosophy, prioritizing user needs and preferences throughout the iterative design process.
