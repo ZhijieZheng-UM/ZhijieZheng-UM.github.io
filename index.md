@@ -95,20 +95,20 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      
      * Participated in regular team meetings, fostering open communication and productive collaboration among team members.
 
-**2020.09 - 2020.11**
-:    **Online food ordering website**<br />
+**2021.09 - 2022.01**
+:    **Fitness app**<br />
      *Web designer*
 
-     * Conceptualized and designed a dynamic and user-centric online food ordering website, leveraging expertise in human-computer interaction principles.
-     
-     * Utilized a user-centered design approach to create an intuitive and visually appealing interface, enhancing the user experience for seamless food ordering.
+     * Conceptualized and designed a dynamic and user-centric online fitness tracking website, leveraging expertise in human-computer interaction principles.
      
      * Collaborated closely with developers and stakeholders to transform design concepts into functional web pages, ensuring seamless integration of design and functionality.
-     
-     * Incorporated effective visual hierarchy, color schemes, and typography choices to enhance the website's aesthetics and usability.
+
+     * Spearheaded the refinement of the website's design through meticulous attention to detail.
      
      * Conducted usability testing and gathered user feedback to iteratively refine the website's design, resulting in improved user satisfaction and engagement.
-     
-     * Ensured compliance with web accessibility standards, making the website inclusive and accessible to users with diverse needs.
+  
      * Collaborated with content creators to ensure that the website's content was well-organized and effectively presented, contributing to a cohesive user journey.
-     * Demonstrated a strong understanding of design principles and trends, resulting in a website that effectively meets user needs and aligns with industry standards.
+
+     * Skillfully gathered and analyzed user feedback, translating insights into actionable design enhancements.
+
+     * Upheld a user-centered design philosophy, prioritizing user needs and preferences throughout the iterative design process.
