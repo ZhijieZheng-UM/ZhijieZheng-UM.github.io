@@ -1,7 +1,6 @@
 # Zhijie Zheng
 ## New Graduate University Student
 
------
 > 71 Caribou Crescent       
 > Winnipeg, Manitoba    
 > R3Y 0G3       
