@@ -14,7 +14,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 
 -----
 ### Education
-**September 2018 - August 2019**
+**September 2018 — August 2019**
 :    **Bachelor of Science, Computer Science**<br />
      *International College of Manitoba, Winnipeg*
      * Gpa: 4.00
