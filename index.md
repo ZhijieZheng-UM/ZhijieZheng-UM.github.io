@@ -95,4 +95,5 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      * Spearheaded the refinement of the website's design through meticulous attention to detail.
      * Collaborated closely with developers and stakeholders to transform design concepts into functional web pages, ensuring seamless integration of design and functionality.
      * Skillfully gathered and analyzed user feedback to iteratively refine the website's design, resulting in improved user satisfaction and engagement.
+     * Conducted usability testing and gathered user feedback to iteratively refine the website’s design, resulting in improved user satisfaction and engagement.
      * Upheld a user-centered design philosophy, prioritizing user needs and preferences throughout the iterative design process.
