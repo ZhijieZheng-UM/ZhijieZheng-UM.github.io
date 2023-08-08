@@ -51,7 +51,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 
 \ 
 **Languages**
-:    *  English
+:    *  Englisha
      *  Mandarin Chinese (Native)
      *  Japanese
 
