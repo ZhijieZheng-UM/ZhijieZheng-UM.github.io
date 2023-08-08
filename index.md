@@ -48,7 +48,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      *  Outlook and Gmail
      *  Database Management
      *  Linux/Unix Remote Server
-     
+<br />     
 **Languages**
 :    *  English
      *  Mandarin Chinese (Native)
