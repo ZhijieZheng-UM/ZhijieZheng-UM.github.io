@@ -9,7 +9,7 @@
 
 -----
 ### Objective
-Dedicated and detail-oriented new graduate with a strong work ethic and a passion for automobiles. Offering meticulous attention to detail, effective problem-solving and multitasking. Adept at collaborating within teams to achieve efficient results and committed to continuous learning. Possesses a valid driver's license with a clean driving record. Capable of driving both automatic and manual transmission vehicles with confidence and expertise.
+Dedicated and detail-oriented new graduate with a strong work ethic and a passion for automobiles. Offering meticulous attention to detail, effective problem-solving and multitasking skills. Adept at collaborating within teams to achieve efficient results and committed to continuous learning. Possesses a valid Class 5 driver's license with a clean driving record. Capable of driving both automatic and manual transmission vehicles with confidence and expertise.
 
 -----
 ### Education
@@ -30,12 +30,12 @@ Dedicated and detail-oriented new graduate with a strong work ethic and a passio
 ### Skills
 **Ability**
 :    *   Valid Class 5 driver's license with a clean record.
-     *   Confident in driving both automatic and manual transmission vehicles.
-     *   Familiar with operating pressure washers and vacuum cleaners, ensuring thorough and efficient cleaning processes.
+     *   Proficient in driving both automatic and manual transmission vehicles.
+     *   Familiar with operating pressure washers and vacuum cleaners for thorough and efficient cleaning.
      *   Own a reliable vehicle and maintain it properly, ensuring punctuality and dependability for daily commute to work.
      
 **Soft Skills**
-:    *   Attentive to detail, ensuring precision in all tasks.
+:    *   Attentive to detail, ensuring precision in every task.
      *   Strong team player, capable of collaborating effectively with others.
      *   Exceptional problem-solving abilities to overcome challenges.
      *   Efficient time management, ensuring timely completion of projects.
