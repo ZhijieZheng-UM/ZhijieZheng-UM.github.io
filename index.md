@@ -91,9 +91,7 @@ processes.
 
      * Developed and contributed to "Student Life," an Android time management app designed to streamline task organization and enhance productivity for students.
      * Collaborated with a cross-functional team to gather requirements, design user interfaces, and implement new features, resulting in an intuitive and user-friendly app.
-     * Implemented user stories, ensuring that the app addresses the needs and preferences of the target audience.
      * Assumed project management responsibilities, effectively coordinating tasks and team efforts to achieve project milestones within set timelines.
-     * Employed best practices in coding and documentation to facilitate ease of maintenance and future updates.
      * Participated in regular team meetings, fostering open communication and productive collaboration among team members.
 
 **Sep 2021 - Jan 2022**
