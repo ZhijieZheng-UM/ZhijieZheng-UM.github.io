@@ -90,7 +90,7 @@ processes.
      *Student life*
 
      * Developed and contributed to "Student Life," an Android time management app designed to streamline task organization and enhance productivity for students.
-     * Collaborated with a cross-functional team to gather requirements, design user interfaces, and implement new features, resulting in an intuitive and user-friendly app.
+     * Collaborated with a cross-functional team to gather requirements and implement new features, resulting in an intuitive and user-friendly app.
      * Assumed project management responsibilities, effectively coordinating tasks and team efforts to achieve project milestones within set timelines.
      * Participated in regular team meetings, fostering open communication and productive collaboration among team members.
 
