@@ -17,7 +17,8 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 **Sept 2018 - Aug 2019**
 :    **Bachelor of Science, Computer Science**<br />
      *International College of Manitoba, Winnipeg*
-     * Gpa: 4.00 * Winter 2019 Honour Roll
+     * Gpa: 4.00
+     * Winter 2019 Honour Roll
      : Demonstrated strong academic performance as a full-time student
 
 **Sept 2019 - Feb 2023**
