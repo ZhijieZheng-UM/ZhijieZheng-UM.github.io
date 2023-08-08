@@ -36,7 +36,7 @@ processes.
      *   Own a reliable vehicle and maintain it properly, ensuring punctuality and dependability for daily commute to work.
      
 **Soft Skills**
-:    *   Excellent attention to detail, ensuring every vehicle receives a meticulous and thorough cleaning.
+:    *   Excellent attention to detail for meticulous and thorough cleaning.
      *   Strong work ethic, able to work diligently with minimal supervision, managing time effectively to meet tight cleaning schedules and prioritize tasks accordingly.
      *   Ability to adapt to changing situations and willingness to take on new challenges.
      *   Strong team player, capable of collaborating effectively with others.
