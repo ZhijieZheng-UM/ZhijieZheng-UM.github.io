@@ -56,7 +56,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 
 ----- 
 ### Experience
-**2022.03 - Present**
+**March 2022 - Present**
 :    **Courier**<br />
      *SkipTheDishes*
      
@@ -67,7 +67,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      
 -----
 ### Volunteering
-**2015.01 - 2016.04**
+**January 2015 - April 2016**
 :    **Guide Desk volunteer**<br />
      *Shanghai Pudong Hospital*
 
@@ -77,7 +77,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
     
 -----
 ### Projects
-**2021.02 - 2021.05**
+**February 2021 - May 2021**
 :    **Student life**<br />
      *Project developer*
 
@@ -89,7 +89,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      * Employed best practices in coding and documentation to facilitate ease of maintenance and future updates.
      * Participated in regular team meetings, fostering open communication and productive collaboration among team members.
 
-**2021.09 - 2022.01**
+**September 2021 - January 2022**
 :    **Fitness app**<br />
      *Web designer*
 
