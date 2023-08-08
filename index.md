@@ -14,14 +14,14 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 
 -----
 ### Education
-**September 2018 — August 2019**
+**Sept 2018 - Aug 2019**
 :    **Bachelor of Science, Computer Science**<br />
      *International College of Manitoba, Winnipeg*
      * Gpa: 4.00
      * Winter 2019 Honour Roll
      : Demonstrated strong academic performance as a full-time student
 
-**September 2019 - February 2023**
+**Sept 2019 - Feb 2023**
 :    **Bachelor of Science, Computer Science**<br />
      *University of Manitoba, Winnipeg*
      * GPA: 3.8
@@ -56,7 +56,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 
 ----- 
 ### Experience
-**March 2022 - Present**
+**Mar 2022 - Present**
 :    **Courier**<br />
      *SkipTheDishes*
      
@@ -67,7 +67,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      
 -----
 ### Volunteering
-**January 2015 - April 2016**
+**Jan 2015 - Apr 2016**
 :    **Guide Desk volunteer**<br />
      *Shanghai Pudong Hospital*
 
@@ -77,7 +77,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
     
 -----
 ### Projects
-**February 2021 - May 2021**
+**Feb 2021 - May 2021**
 :    **Project developer**<br />
      *Student life*
 
@@ -89,7 +89,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      * Employed best practices in coding and documentation to facilitate ease of maintenance and future updates.
      * Participated in regular team meetings, fostering open communication and productive collaboration among team members.
 
-**September 2021 - January 2022**
+**Sep 2021 - Jan 2022**
 :    **Web designer**<br />
      *Fitness app*
 
