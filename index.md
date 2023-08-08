@@ -93,7 +93,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 :    **Fitness app**<br />
      *Web designer*
 
-     *       Conceptualized and designed a dynamic and user-centric online fitness tracking website, leveraging expertise in human-computer interaction principles.
+     * Conceptualized and designed a dynamic and user-centric online fitness tracking website, leveraging expertise in human-computer interaction principles.
      * Collaborated closely with developers and stakeholders to transform design concepts into functional web pages, ensuring seamless integration of design and functionality.
      * Spearheaded the refinement of the website's design through meticulous attention to detail.
      * Conducted usability testing and gathered user feedback to iteratively refine the website's design, resulting in improved user satisfaction and engagement.
