@@ -1,7 +1,7 @@
 # Zhijie Zheng
 ## New Graduate University Student
 
-
+-----
 > 71 Caribou Crescent       
 > Winnipeg, Manitoba    
 > R3Y 0G3       
@@ -53,6 +53,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 :    *  English
      *  Mandarin Chinese (Native)
      *  Japanese
+     
 ----- 
 ### Experience
 **Mar 2022 - Present**
