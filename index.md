@@ -49,7 +49,7 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      *  Database Management
      *  Linux/Unix Remote Server
 
- 
+\ 
 **Languages**
 :    *  English
      *  Mandarin Chinese (Native)
