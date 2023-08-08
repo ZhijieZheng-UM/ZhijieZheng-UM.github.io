@@ -78,8 +78,8 @@ Dedicated and detail-oriented new graduate computer science student with extensi
 -----
 ### Projects
 **February 2021 - May 2021**
-:    **Student life**<br />
-     *Project developer*
+:    **Project developer**<br />
+     *Student life*
 
      * Developed and contributed to "Student Life," an Android time management app designed to streamline task organization and enhance productivity for students.
      * Collaborated with a cross-functional team to gather requirements, design user interfaces, and implement new features, resulting in an intuitive and user-friendly app.
@@ -90,8 +90,8 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      * Participated in regular team meetings, fostering open communication and productive collaboration among team members.
 
 **September 2021 - January 2022**
-:    **Fitness app**<br />
-     *Web designer*
+:    **Web designer**<br />
+     *Fitness app*
 
      * Conceptualized and designed a dynamic and user-centric online fitness tracking website, leveraging expertise in human-computer interaction principles.
      * Collaborated closely with developers and stakeholders to transform design concepts into functional web pages, ensuring seamless integration of design and functionality.
