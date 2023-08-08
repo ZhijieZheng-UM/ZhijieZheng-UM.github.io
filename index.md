@@ -86,10 +86,13 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      * Collaborated with a cross-functional team to gather requirements, design user interfaces, and implement new features, resulting in an intuitive and user-friendly app.
      
      * Implemented user stories, ensuring that the app addresses the needs and preferences of the target audience.
+     
      * Demonstrated creativity in devising innovative solutions to optimize app performance and enhance user experience.
+     
      * Assumed project management responsibilities, effectively coordinating tasks and team efforts to achieve project milestones within set timelines.
-     * Conducted thorough testing and debugging, resulting in a bug-free and reliable application.
+     
      * Employed best practices in coding and documentation to facilitate ease of maintenance and future updates.
+     
      * Participated in regular team meetings, fostering open communication and productive collaboration among team members.
 
 **2020.09 - 2020.11**
@@ -97,11 +100,15 @@ Dedicated and detail-oriented new graduate computer science student with extensi
      *Web designer*
 
      * Conceptualized and designed a dynamic and user-centric online food ordering website, leveraging expertise in human-computer interaction principles.
+     
      * Utilized a user-centered design approach to create an intuitive and visually appealing interface, enhancing the user experience for seamless food ordering.
+     
      * Collaborated closely with developers and stakeholders to transform design concepts into functional web pages, ensuring seamless integration of design and functionality.
+     
      * Incorporated effective visual hierarchy, color schemes, and typography choices to enhance the website's aesthetics and usability.
+     
      * Conducted usability testing and gathered user feedback to iteratively refine the website's design, resulting in improved user satisfaction and engagement.
-     * Employed HTML, CSS, and JavaScript to bring the design to life, contributing to a user-friendly and interactive browsing experience.
+     
      * Ensured compliance with web accessibility standards, making the website inclusive and accessible to users with diverse needs.
      * Collaborated with content creators to ensure that the website's content was well-organized and effectively presented, contributing to a cohesive user journey.
      * Demonstrated a strong understanding of design principles and trends, resulting in a website that effectively meets user needs and aligns with industry standards.
