@@ -3,7 +3,7 @@ Zhijie Zheng <br />
 Winnipeg, Manitoba    
 R3Y 0G3       
 (204)590-5931     
-Zheng.Zhijie@hotmail.com
+Zheng.Zhijie@hotmail.com <br />
 August 15, 2023
 
 Murray Hyundai Winnipeg       
