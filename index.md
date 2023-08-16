@@ -1,11 +1,11 @@
 # Zhijie Zheng
 ## New Graduate University Student
 
-> 71 Caribou Crescent       
-> Winnipeg, Manitoba    
-> R3Y 0G3       
-> (204)590-5931     
-> Zheng.Zhijie@hotmail.com
+71 Caribou Crescent       
+Winnipeg, Manitoba    
+R3Y 0G3       
+(204)590-5931     
+Zheng.Zhijie@hotmail.com
 
 -----
 ### Objective
@@ -16,7 +16,7 @@ Dedicated and detail-oriented new graduate with a strong work ethic and a passio
 **Sept 2018 - Aug 2019**
 :    **Bachelor of Science, Computer Science**<br />
      *International College of Manitoba, Winnipeg*
-     * Gpa: 4.00
+     * GPA: 4.00
      * Winter 2019 Honour Roll
      : Demonstrated strong academic performance as a full-time student
 
