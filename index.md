@@ -6,7 +6,7 @@ Zheng.Zhijie@hotmail.com
 August 15, 2023
 
 Murray Chevrolet Winnipeg       
-1700 Waverley st    
+1700 Waverley St    
 Winnipeg, Manitoba, R3T 5V7      
 
 -----
