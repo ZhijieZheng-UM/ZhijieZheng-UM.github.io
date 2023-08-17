@@ -9,7 +9,7 @@
 
 -----
 ### Objective
-Dedicated and detail-oriented new U of M graduate with a strong work ethic and a passion for automobiles. Offering meticulous attention to detail, effective problem-solving and multitasking skills. Adept at collaborating within teams to achieve efficient results and committed to continuous learning. Possesses a valid Class 5 driver's license with a clean driving record. Capable of driving both automatic and manual transmission vehicles with confidence and expertise.
+Dedicated and detail-oriented recent U of M graduate with a strong work ethic and a passion for maintaining cleanliness and organization. Offering meticulous attention to detail, effective problem-solving skills, and a profound dedication to creating a safe and harmonious environment. Seeking to contribute my passion for cleanliness and maintenance to the role of Caretaker, ensuring a conducive atmosphere for students and staff alike.
 
 -----
 ### Education
