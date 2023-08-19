@@ -30,7 +30,7 @@ Dedicated and detail-oriented recent U of M graduate with a strong work ethic an
 ### Skills
 **Maintenance Skills**
 :   
-     * Facilities Maintenance: Proficient in maintaining a high standard of cleanliness in different areas to ensure a pleasant and welcoming environment.     
+     * *Facilities Maintenance:* Proficient in maintaining a high standard of cleanliness in different areas to ensure a pleasant and welcoming environment.     
      * Knowledge of Cleaning Products: Experienced in operating a range of cleaning equipment, such as vacuum cleaners, carpet extractors, lawnmowers, and snowblowers to efficiently manage cleaning tasks. Thoroughly empty waste containers, collect recyclable materials, and transport waste to designated pick-up points.        
      * Minor Maintenance: Skilled in recognizing and reporting hazardous situations, addressing minor maintenance tasks, such as changing light bulbs, unclogging toilets, and conducting routine equipment maintenance.        
      * Supply Management: Experienced in managing and replenishing supplies, including towels, soap, and washroom tissues, contributing to seamless daily operations and user satisfaction.        
