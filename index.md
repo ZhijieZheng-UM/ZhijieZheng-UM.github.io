@@ -58,7 +58,6 @@ Dedicated and detail-oriented recent U of M graduate with a strong work ethic an
      * Regularly cleaned and disinfected washrooms, sinks, and surfaces to ensure a hygienic living environment.
      * Managed stocks of cleaning supplies, ensuring a steady inventory of essential items for efficient cleaning tasks.
      * Adapted cleaning strategies based on changing needs and situations, showcasing flexibility and problem-solving abilities.
-     * Successfully balanced cleaning responsibilities with other commitments, highlighting effective time management skills.
      * Addressed minor maintenance tasks, such as replacing light bulbs and conducting routine equipment checks, displaying a proactive approach to maintenance.
      * Recognized and promptly addressed any hazards or safety concerns within the living space, ensuring a secure environment.
 
