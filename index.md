@@ -3,25 +3,25 @@ Zhijie Zheng <br />
 Winnipeg, Manitoba, R3Y 0G3       
 (204)590-5931     
 Zheng.Zhijie@hotmail.com  
-August 15, 2023
+August 17, 2023
 
-Murray Chevrolet Winnipeg       
-1700 Waverley St    
-Winnipeg, Manitoba, R3T 5V7      
+The University of Manitoba       
+66 Chancellors Cir    
+Winnipeg, Manitoba, R3T 2N2      
 
 -----
-Dear Murray Chevrolet Winnipeg, <br /> <br /> 
-I am writing to express my strong interest in the Detailer position at Murray Chevrolet Winnipeg, as advertised. With my passion for automobiles, meticulous attention to detail, and dedication to delivering exceptional service, I am excited about the opportunity to contribute to your team's success. 
+Dear Recruiting Department for The University of Manitoba, <br /> <br /> 
+I am writing to express my strong interest in the Caretaker position at the University of Manitoba, as advertised. With my dedication to cleanliness, strong work ethic, and commitment to maintaining a safe and harmonious environment, I am excited about the opportunity to contribute to the upkeep of your facility and support the well-being of students and staff.
 
-As a recent graduate with a Bachelor of Science from the University of Manitoba, I have honed skills that are applicable to this detailer role. During my academic journey, I have consistently demonstrated a strong work ethic, attention to detail, and the ability to collaborate effectively within teams. I am proficient in driving both automatic and manual vehicles, possess a Class 5 driver's license with a clean record, and have hands-on experience with pressure washers and vacuum cleaners to ensure thorough and efficient cleaning processes. 
+As a recent graduate from the University of Manitoba, I have honed my attention to detail, problem-solving abilities, and organizational skills through academic pursuits and diverse experiences. My passion for cleanliness and maintenance is reflected in my background of self-house cleaning, where I have demonstrated an unwavering commitment to maintaining an orderly living space. I am confident that these skills will enable me to excel in maintaining the facilities at the University of Manitoba to the highest standards.
 
-I have actively maintained and detailed my own vehicle, consistently upholding the highest standards of cleanliness and maintenance. This experience has allowed me to develop effective cleaning routines and showcase my dedication to automotive care. Furthermore, my role as a Courier at SkipTheDishes has enhanced my problem-solving skills, time management abilities, and customer service orientation, all of which are essential traits for a successful car detailer. 
+My maintenance skills encompass a thorough understanding of cleaning equipment and procedures. I possess hands-on experience in vacuuming, waste disposal, disinfection, and minor maintenance tasks. My ability to adapt to changing situations and work both independently and collaboratively ensures my effectiveness in managing diverse caretaking responsibilities. Furthermore, my proficiency in supply management and attention to detail enable me to consistently deliver exceptional results.
 
-What excites me most about the opportunity at Murray Chevrolet Winnipeg is the chance to merge my passion for automobiles with my skills and dedication. I am eager to contribute to your team by providing meticulous vehicle cleaning, exceptional attention to detail, and a commitment to ensuring customer satisfaction. I thrive in fast-paced environments, adapt quickly to new challenges, and take pride in my ability to work diligently with minimal supervision. 
+My personal commitment to safety is underscored by my valid Class 5 driver’s license with a clean record, reflecting my dedication to responsible vehicle operation and adherence to safety standards. In addition, my ability to adapt to outdoor work in various weather conditions demonstrates my resilience and dedication to fulfilling duties regardless of environmental challenges.
 
-I am drawn to Murray Chevrolet Winnipeg for its reputation in the industry, commitment to excellence, and the opportunities it offers for professional growth. I am enthusiastic about joining your team and leveraging my automotive enthusiasm and skills to contribute positively to your dealership's success. 
+I am excited about the opportunity to contribute my skills and dedication to creating a safe, inviting, and well-maintained environment for the University of Manitoba's students and staff. I am confident in my ability to exceed expectations and look forward to the possibility of contributing to your team.
 
-Enclosed is my resume, which provides further details about my qualifications. I would welcome the opportunity to discuss how my background aligns with the requirements of the Car Detailer position and how I can contribute to your team. Thank you for considering my application. <br /> 
+Enclosed is my resume, which provides further details about my qualifications. I would welcome the opportunity to discuss how my background aligns with the requirements of the Caretaker position and how I can contribute to your team. Thank you for considering my application. <br /> 
 
 Sincerely, <br /> 
 Zhijie Zheng
