@@ -37,7 +37,7 @@ Dedicated and detail-oriented recent U of M graduate with a strong work ethic an
      * Supply Management: Experienced in managing and replenishing supplies, including towels, soap, and washroom tissues, contributing to seamless daily operations and user satisfaction.
      
 **Soft Skills**
-:
+:    
       * Attention to Detail: Keen eye for detail to identify and address cleanliness issues promptly, contributing to a professional and well-maintained university environment.
      * Organizational Skills: Proven ability to manage tasks, prioritize workloads, and follow cleaning schedules. Maintain organizational efficiency in caretaking duties.
      * Teamwork and Independence: Strong ability to work both independently and collaboratively in teams with minimal supervision.
