@@ -53,17 +53,14 @@ Dedicated and detail-oriented recent U of M graduate with a strong work ethic an
      *Self-Directed Experience*
      
      * Demonstrated a strong commitment to cleanliness and organization by maintaining own residence to high standards.
-     * Developed effective and systematic cleaning routines for interior and exterior spaces, ensuring consistent results.
      * Employed meticulous attention to detail while cleaning surfaces, fixtures, and appliances, showcasing a dedication to thoroughness.
-     * Proficiently operated various cleaning equipment such as vacuum cleaners, mop, and dusters to achieve desired cleanliness.
+     * Proficiently operated various cleaning equipment such as vacuum cleaners, carpet extractors, and mops to achieve desired cleanliness.
      * Regularly cleaned and disinfected washrooms, sinks, and surfaces to ensure a hygienic living environment.
      * Managed stocks of cleaning supplies, ensuring a steady inventory of essential items for efficient cleaning tasks.
-     * Implemented sustainable practices such as waste segregation and recycling, contributing to environmental responsibility.
      * Adapted cleaning strategies based on changing needs and situations, showcasing flexibility and problem-solving abilities.
      * Successfully balanced cleaning responsibilities with other commitments, highlighting effective time management skills.
      * Addressed minor maintenance tasks, such as replacing light bulbs and conducting routine equipment checks, displaying a proactive approach to maintenance.
      * Recognized and promptly addressed any hazards or safety concerns within the living space, ensuring a secure environment.
-     * Achieved positive feedback from household members for maintaining a clean, organized, and inviting living space.
 
 **Mar 2022 - Present**
 :    **Courier**<br />
