@@ -58,6 +58,7 @@ Dedicated and detail-oriented recent U of M graduate with a strong work ethic an
      * Regularly cleaned and disinfected washrooms, sinks, and surfaces to ensure a hygienic living environment.
      * Managed stocks of cleaning supplies, ensuring a steady inventory of essential items for efficient cleaning tasks.
      * Adapted cleaning strategies based on changing needs and situations, showcasing flexibility and problem-solving abilities.
+     * Successfully balanced cleaning responsibilities with other commitments, highlighting effective time management skills.
      * Addressed minor maintenance tasks, such as replacing light bulbs and conducting routine equipment checks, displaying a proactive approach to maintenance.
      * Recognized and promptly addressed any hazards or safety concerns within the living space, ensuring a secure environment.
 
@@ -79,25 +80,3 @@ Dedicated and detail-oriented recent U of M graduate with a strong work ethic an
      * Provided exceptional customer service by operating the registration system, assisting patients with acquiring numbers, and guiding them to their respective destinations.
      * Demonstrated strong communication skills in interacting with patients, answering inquiries, and ensuring a smooth and pleasant experience for hospital visitors.
      * Collaborated effectively with hospital staff and volunteers to optimize patient flow and minimize waiting times.
-    
------
-### Projects
-**Feb 2021 - May 2021**
-:    **Project developer**<br />
-     *Student life*
-
-     * Developed and contributed to "Student Life," an Android time management app designed to streamline task organization and enhance productivity for students.
-     * Collaborated with a cross-functional team to gather requirements, design user interfaces, and implement
-new features, resulting in an intuitive and user-friendly app.
-     * Assumed project management responsibilities, effectively coordinating tasks and team efforts to achieve project milestones within set timelines.
-     * Participated in regular team meetings, fostering open communication and productive collaboration among team members.
-
-**Sep 2021 - Jan 2022**
-:    **Web designer**<br />
-     *Fitness app*
-
-     * Conceptualized and designed a dynamic and user-centric online fitness tracking website, leveraging expertise in human-computer interaction principles.
-     * Through meticulous attention to detail spearheaded the refinement of the website's design.
-     * Collaborated closely with developers and stakeholders to transform design concepts into functional web pages, ensuring seamless integration of design and functionality.
-     * Skillfully gathered and analyzed user feedback to iteratively refine the website's design, resulting in improved user satisfaction and engagement.
-
