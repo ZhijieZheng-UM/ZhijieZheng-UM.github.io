@@ -11,7 +11,7 @@ Winnipeg, Manitoba, R3T 2N2
 
 -----
 Dear Recruiting Department for The University of Manitoba, <br /> <br /> 
-I am writing to express my strong interest in the Caretaker position at the University of Manitoba, as advertised. With my dedication to cleanliness, strong work ethic, and commitment to maintaining a safe and harmonious environment, I am excited about the opportunity to contribute to the upkeep of your facility and support the well-being of students and staff.
+I am writing to express my strong interest in the Caretaker position at the University of Manitoba, as advertised. With my dedication to cleanliness, strong work ethic, and commitment to maintaining a safe and harmonious environment, I am excited about the opportunity to contribute to the upkeep of campus and support the well-being of students and staff.
 
 As a recent graduate from the University of Manitoba, I have honed my attention to detail, problem-solving abilities, and organizational skills through academic pursuits and diverse experiences. My passion for cleanliness and maintenance is reflected in my background of self-house cleaning, where I have demonstrated an unwavering commitment to maintaining an orderly living space. I am confident that these skills will enable me to excel in maintaining the facilities at the University of Manitoba to the highest standards.
 
