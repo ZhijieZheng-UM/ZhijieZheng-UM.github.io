@@ -31,16 +31,16 @@ Dedicated and detail-oriented recent U of M graduate with a strong work ethic an
 **Maintenance Skills**
 :   
      * **Facilities Maintenance:** Proficient in maintaining a high standard of cleanliness in different areas to ensure a pleasant and welcoming environment.     
-     * Knowledge of Cleaning Products: Experienced in operating a range of cleaning equipment, such as vacuum cleaners, carpet extractors, lawnmowers, and snowblowers to efficiently manage cleaning tasks. Thoroughly empty waste containers, collect recyclable materials, and transport waste to designated pick-up points.        
-     * Minor Maintenance: Skilled in recognizing and reporting hazardous situations, addressing minor maintenance tasks, such as changing light bulbs, unclogging toilets, and conducting routine equipment maintenance.        
-     * Supply Management: Experienced in managing and replenishing supplies, including towels, soap, and washroom tissues, contributing to seamless daily operations and user satisfaction.        
+     * **Knowledge of Cleaning Products:** Experienced in operating a range of cleaning equipment, such as vacuum cleaners, carpet extractors, lawnmowers, and snowblowers to efficiently manage cleaning tasks. Thoroughly empty waste containers, collect recyclable materials, and transport waste to designated pick-up points.        
+     * **Minor Maintenance:** Skilled in recognizing and reporting hazardous situations, addressing minor maintenance tasks, such as changing light bulbs, unclogging toilets, and conducting routine equipment maintenance.        
+     * **Supply Management:** Experienced in managing and replenishing supplies, including towels, soap, and washroom tissues, contributing to seamless daily operations and user satisfaction.        
      
 **Soft Skills**
 :    
-      * Attention to Detail: Keen eye for detail to identify and address cleanliness issues promptly, contributing to a professional and well-maintained university environment.        
-     * Organizational Skills: Proven ability to manage tasks, prioritize workloads, and follow cleaning schedules. Maintain organizational efficiency in caretaking duties.        
-     * Teamwork and Independence: Strong ability to work both independently and collaboratively in teams with minimal supervision.        
-     * Adaptability:  Well-equipped to handle physically demanding tasks, maintaining energy and focus during extended periods of walking, standing, and lifting. Willingness to work outdoors in various weather conditions, including summer and winter.        
+      * **Attention to Detail:** Keen eye for detail to identify and address cleanliness issues promptly, contributing to a professional and well-maintained university environment.        
+     * **Organizational Skills:** Proven ability to manage tasks, prioritize workloads, and follow cleaning schedules. Maintain organizational efficiency in caretaking duties.        
+     * **Teamwork and Independence:** Strong ability to work both independently and collaboratively in teams with minimal supervision.        
+     * **Adaptability:**  Well-equipped to handle physically demanding tasks, maintaining energy and focus during extended periods of walking, standing, and lifting. Willingness to work outdoors in various weather conditions, including summer and winter.        
      * Valid Class 5 driver's license and a reliable vehicle, ensuring punctuality and dependability for daily commute to work.        
      
 ----- 
