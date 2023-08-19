@@ -40,9 +40,12 @@ Dedicated and detail-oriented recent U of M graduate with a strong work ethic an
       * **Attention to Detail:** Keen eye for detail to identify and address cleanliness issues promptly, contributing to a professional and well-maintained university environment.        
      * **Organizational Skills:** Proven ability to manage tasks, prioritize workloads, and follow cleaning schedules. Maintain organizational efficiency in caretaking duties.        
      * **Teamwork and Independence:** Strong ability to work both independently and collaboratively in teams with minimal supervision.        
-     * **Adaptability:**  Well-equipped to handle physically demanding tasks, maintaining energy and focus during extended periods of walking, standing, and lifting. Willingness to work outdoors in various weather conditions, including summer and winter.        
-     * Valid Class 5 driver's license and a reliable vehicle, ensuring punctuality and dependability for daily commute to work.        
-     
+     * **Adaptability:**  Well-equipped to handle physically demanding tasks, maintaining energy and focus during extended periods of walking, standing, and lifting. Willingness to work outdoors in various weather conditions, including summer and winter.               
+
+**Certifications**
+:
+    * Valid Class 5 driver’s license with a clean record.
+    
 ----- 
 ### Experience
 **2020 - Present**
