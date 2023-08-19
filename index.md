@@ -27,7 +27,7 @@ Dedicated and detail-oriented recent U of M graduate with a strong work ethic an
      * Active participant in computer science-related projects and activities
     
 -----
-### Skills
+**Skills**
 :   
      *   Facilities Maintenance: Proficient in maintaining a high standard of cleanliness in different areas to ensure a pleasant and welcoming environment. 
      *   Knowledge of Cleaning Products: Experienced in operating a range of cleaning equipment, such as vacuum cleaners, carpet extractors, lawnmowers, and snowblowers to efficiently manage cleaning tasks. Thoroughly empty waste containers, collect recyclable materials, and transport waste to designated pick-up points.
