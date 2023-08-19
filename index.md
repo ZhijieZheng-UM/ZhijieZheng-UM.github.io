@@ -43,7 +43,7 @@ Dedicated and detail-oriented recent U of M graduate with a strong work ethic an
      * **Adaptability:**  Well-equipped to handle physically demanding tasks, maintaining energy and focus during extended periods of walking, standing, and lifting. Willingness to work outdoors in various weather conditions, including summer and winter.               
 
 **Certifications**
-:
+:        
     * Valid Class 5 driver’s license with a clean record.
     
 ----- 
