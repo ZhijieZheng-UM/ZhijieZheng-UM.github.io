@@ -29,25 +29,21 @@ Dedicated and detail-oriented recent U of M graduate with a strong work ethic an
 -----
 ### Skills
 **Ability**
-:    *   Valid Class 5 driver's license with a clean record, enabling safe and responsible vehicle movement.
-     *   Skilled in driving both automatic and manual transmission vehicles, allowing for a wide range of vehicles to be handled efficiently.
-     *   Familiar with operating pressure washers and vacuum cleaners, ensuring thorough and efficient cleaning
-processes.
-     *   Own a reliable vehicle and maintain it properly, ensuring punctuality and dependability for daily commute to work.
-     
-**Soft Skills**
-:    *   Excellent attention to detail, ensuring every vehicle receives a meticulous and thorough cleaning.
-     *   Strong work ethic, able to work diligently with minimal supervision, managing time effectively to meet tight cleaning schedules and prioritize tasks accordingly.
-     *   Ability to adapt to changing situations and willingness to take on new challenges.
-     *   Strong team player, capable of collaborating effectively with others.
-     *   Quick learner, adaptable to new technologies and methodologies.
-     
+:   
+     *   Facilities Maintenance: Proficient in maintaining a high standard of cleanliness in different areas to ensure a pleasant and welcoming environment. 
+     *   Knowledge of Cleaning Products: Experienced in operating a range of cleaning equipment, such as vacuum cleaners, carpet extractors, lawnmowers, and snowblowers to efficiently manage cleaning tasks. Thoroughly empty waste containers, collect recyclable materials, and transport waste to designated pick-up points.
+     *   Attention to Detail: Keen eye for detail to identify and address cleanliness issues promptly, contributing to a professional and well-maintained university environment.
+     *   Organizational Skills: Proven ability to manage tasks, prioritize workloads, and follow cleaning schedules. Maintain organizational efficiency in caretaking duties.
+     *   Teamwork and Independence: Strong ability to work both independently and collaboratively in teams with minimal supervision.
+     *   Minor Maintenance: Skilled in recognizing and reporting hazardous situations, addressing minor maintenance tasks, such as changing light bulbs, unclogging toilets, and conducting routine equipment maintenance.
+     *   Supply Management: Experienced in managing and replenishing supplies, including towels, soap, and washroom tissues, contributing to seamless daily operations and user satisfaction.
+     *   Adaptability:  Well-equipped to handle physically demanding tasks, maintaining energy and focus during extended periods of walking, standing, and lifting. Willingness to work outdoors in various weather conditions, including summer and winter.
+     *   Valid Class 5 driver's license and a reliable vehicle, ensuring punctuality and dependability for daily commute to work.
+
 **Software**
 :    *  Microsoft Office (Word, Excel, Powerpoint)
      *  Google Drive (Docs, Sheets, Slides, Forms)
      *  Outlook and Gmail
-     *  Database Management
-     *  Linux/Unix Remote Server
 
 **Languages**
 :    *  English
