@@ -3,26 +3,26 @@ Zhijie Zheng <br />
 Winnipeg, Manitoba, R3Y 0G3       
 (204)590-5931     
 Zheng.Zhijie@hotmail.com  
-August 24, 2023
+August 25, 2023
 
-Recruiting Department    
-Southeast Collegiate       
-1269 Lee Blvd    
-Winnipeg, Manitoba, R3T 5W8          
+Recruiting Department
+Driving Force       
+1750 Sargent Ave    
+Winnipeg, Manitoba, R3H 0C7      
 
 -----
-Dear Recruiting Department for Southeast Collegiate, <br /> <br /> 
-I am writing to express my strong interest in the Housekeeper position at the Southeast Collegiate, as advertised on Indeed. With my dedication to cleanliness, strong work ethic, and commitment to maintaining a safe and harmonious environment, I am excited about the opportunity to contribute to the upkeep of the campus and support the well-being of students and staff.
+Dear Recruiting Department for Driving Force, <br /> <br /> 
+I am writing to express my strong interest in the Detailer position at Driving Force, as advertised on Indeed. With my passion for automobiles, meticulous attention to detail, and dedication to delivering exceptional service, I am excited about the opportunity to contribute to your team's success. 
 
-As a recent graduate from the University of Manitoba, I have honed my attention to detail, problem-solving abilities, and organizational skills through academic pursuits and diverse experiences. My passion for cleanliness and maintenance is reflected in my background of self-house cleaning, where I have demonstrated an unwavering commitment to maintaining an orderly living space. This experience instilled in me the value of a well-kept environment, which I believe will enable me to excel in maintaining the facilities at the Southeast Collegiate to the highest standards.
+As a recent graduate from the University of Manitoba, I have honed skills that are applicable to this detailer role. During my academic journey, I have consistently demonstrated a strong work ethic, attention to detail, and the ability to collaborate effectively within teams. I am proficient in driving both automatic and manual vehicles, possess a Class 5 driver's license with a clean record, and have hands-on experience with pressure washers and vacuum cleaners to ensure thorough and efficient cleaning processes. 
 
-My maintenance skills encompass a thorough understanding of cleaning equipment and procedures. I possess hands-on experience in vacuuming, waste disposal, disinfection, and minor maintenance tasks. My ability to adapt to changing situations and work both independently and collaboratively ensures my effectiveness in managing diverse caretaking responsibilities. Furthermore, my proficiency in supply management and attention to detail enable me to consistently deliver exceptional results.
+I have actively maintained and detailed my own vehicle, consistently upholding the highest standards of cleanliness and maintenance. This experience has allowed me to develop effective cleaning routines and showcase my dedication to automotive care. Furthermore, my role as a Courier at SkipTheDishes has enhanced my problem-solving skills, time management abilities, and customer service orientation, all of which are essential traits for a successful car detailer. 
 
-My personal commitment to safety is underscored by my valid Class 5 driver's license with a clean record, reflecting my dedication to responsible vehicle operation and adherence to safety standards. In addition, my ability to adapt to outdoor work in various weather conditions demonstrates my resilience and dedication to fulfilling duties regardless of environmental challenges.
+What excites me most about the opportunity at Driving Force is the chance to merge my passion for automobiles with my skills and dedication. I am eager to contribute to your team by providing meticulous vehicle cleaning, exceptional attention to detail, and a commitment to ensuring customer satisfaction. I thrive in fast-paced environments, adapt quickly to new challenges, and take pride in my ability to work diligently with minimal supervision. 
 
-I am excited about the opportunity to contribute my skills and dedication to creating a safe, inviting, and well-maintained environment for Southeast Collegiate's students and staff. I am confident in my ability to exceed expectations and look forward to the possibility of contributing to your team.
+I am drawn to Driving Force for its reputation in the industry, commitment to excellence, and the opportunities it offers for professional growth. I am enthusiastic about joining your team and leveraging my automotive enthusiasm and skills to contribute positively to your success. 
 
-Enclosed is my resume, which provides further details about my qualifications. I would welcome the opportunity to discuss how my background aligns with the requirements of the Housekeeper position and how I can contribute to your team. Thank you for considering my application. <br /> 
+Enclosed is my resume, which provides further details about my qualifications. I would welcome the opportunity to discuss how my background aligns with the requirements of the Car Detailer position and how I can contribute to your team. Thank you for considering my application. <br /> 
 
 Sincerely, <br /> 
 Zhijie Zheng
