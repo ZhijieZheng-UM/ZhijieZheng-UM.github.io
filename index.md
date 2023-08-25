@@ -8,7 +8,7 @@
 
 -----
 ### Objective
-Dedicated and detail-oriented recent U of M graduate with a strong work ethic and a passion for maintaining cleanliness and organization. Offering meticulous attention to detail, effective problem-solving skills, and a profound dedication to creating a safe and harmonious environment. Seeking to contribute my passion for cleanliness and maintenance to the role of Cleaning Associate, ensuring a conducive atmosphere for residents alike.
+Dedicated and detail-oriented recent U of M graduate with a strong work ethic and a passion for maintaining cleanliness and organization. Offering meticulous attention to detail, effective problem-solving skills, and a profound dedication to creating a safe and harmonious environment. Seeking to contribute my passion for cleanliness and maintenance to the role of Housekeeper, ensuring a conducive atmosphere for students and staff alike.
 
 -----
 ### Education
