@@ -5,7 +5,7 @@ Winnipeg, Manitoba, R3Y 0G3
 Zheng.Zhijie@hotmail.com  
 August 25, 2023
 
-Recruiting Department
+Recruiting Department    
 Driving Force       
 1750 Sargent Ave    
 Winnipeg, Manitoba, R3H 0C7      
