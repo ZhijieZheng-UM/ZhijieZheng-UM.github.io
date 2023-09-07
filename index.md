@@ -14,16 +14,18 @@ Creative and detail-oriented computer science student with advanced knowledge in
 
 -----
 ### Education
-**2018-2019**
+**Sept 2018 - Aug 2019**
 :    **Bachelor of Science, Computer Science**<br />
      *International College of Manitoba, Winnipeg*
-     * Gpa: 4.00
+     * GPA: 4.00
      * Winter 2019 Honour Roll
+     : Demonstrated strong academic performance as a full-time student
 
-**2019-2023**
+**Sept 2019 - Feb 2023**
 :    **Bachelor of Science, Computer Science**<br />
      *University of Manitoba, Winnipeg*
      * GPA: 3.8
+     * Active participant in computer science-related projects and activities
      
 -----
 ### Experience
