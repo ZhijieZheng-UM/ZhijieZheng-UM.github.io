@@ -28,7 +28,28 @@ Creative and detail-oriented computer science student with advanced knowledge in
      * Active participant in computer science-related projects and activities
      
 -----
-### Experience
+### Projects Experience
+**Feb 2021 - May 2021**
+:    **Project developer**<br />
+     *Student life*
+
+     * Developed and contributed to "Student Life," an Android time management app designed to streamline task organization and enhance productivity for students.
+     * Collaborated with a cross-functional team to gather requirements, design user interfaces, and implement
+new features, resulting in an intuitive and user-friendly app.
+     * Assumed project management responsibilities, effectively coordinating tasks and team efforts to achieve project milestones within set timelines.
+     * Participated in regular team meetings, fostering open communication and productive collaboration among team members.
+
+**Sep 2021 - Jan 2022**
+:    **Web designer**<br />
+     *Fitness app*
+
+     * Conceptualized and designed a dynamic and user-centric online fitness tracking website, leveraging expertise in human-computer interaction principles.
+     * Through meticulous attention to detail spearheaded the refinement of the website's design.
+     * Collaborated closely with developers and stakeholders to transform design concepts into functional web pages, ensuring seamless integration of design and functionality.
+     * Skillfully gathered and analyzed user feedback to iteratively refine the website's design, resulting in improved user satisfaction and engagement.
+     
+-----
+### Professional Experience
 **2022.03 - Present**
 :    **Courier**<br />
      *SkipTheDishes*
@@ -36,34 +57,16 @@ Creative and detail-oriented computer science student with advanced knowledge in
      Deliver food products in accordance with all sanitation, and safety principles. Verify customers’ online food orders and deliver them on time with an excellent professional attitude.
      
 -----
-### Volunteering
-**2015.01 - 2016.04**
-:    **Public Hospital Volunteer**
+### Volunteer Experience
+**Jan 2015 - Apr 2016**
+:    **Guide Desk volunteer**<br />
+     *Shanghai Pudong Hospital*
 
-     Operate the registration system, help patients get their number and guide them to the appropriate place.
-     
+     * Provided exceptional customer service by operating the registration system, assisting patients with acquiring numbers, and guiding them to their respective destinations.
+     * Demonstrated strong communication skills in interacting with patients, answering inquiries, and ensuring a smooth and pleasant experience for hospital visitors.
+     * Collaborated effectively with hospital staff and volunteers to optimize patient flow and minimize waiting times.
+    
 -----
-### Projects
-**2021.02 - 2021.05**
-:    **Student life**<br />
-     *Project developer*
-
-     Student life is an Android time management app for your tough student life. It can keep track of your tasks, get feedback from the time estimator, and provide you with some useful help. As a project developer, I creatively developed new features and implemented user stories. At the same time, I also did some project management to make our project easy to maintain and clean.
-
-**2020.09 - 2020.11**
-:    **Online food ordering website**<br />
-     *Web designer*
-
-     Design a practical and compelling food ordering website using human-computer interaction knowledge to make it easier for people to order food online.
-
------
-### Awards
-**2019.05**
-:    **Winter 2019 Honour Roll**
-
-     Achieved a high grade point average as a full-time student in the International College of Manitoba.
-
------    
 ### Skills
 **Interpersonal Skills**
 :    1. Critically Analyses
@@ -72,9 +75,6 @@ Creative and detail-oriented computer science student with advanced knowledge in
      4. Fast Learner
      5. Problem-solving
      6. Time Management
-     
-**Life Skill**
-:    1. Clean Class 5 driver's license
 
 **Software**
 :    1. Microsoft Office
