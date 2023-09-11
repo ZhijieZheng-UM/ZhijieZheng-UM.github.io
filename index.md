@@ -47,7 +47,18 @@ new features, resulting in an intuitive and user-friendly app.
      * Through meticulous attention to detail spearheaded the refinement of the website's design.
      * Collaborated closely with developers and stakeholders to transform design concepts into functional web pages, ensuring seamless integration of design and functionality.
      * Skillfully gathered and analyzed user feedback to iteratively refine the website's design, resulting in improved user satisfaction and engagement.
-     
+
+ **Sep 2021 - Jan 2022**   
+ :    **Web designer**<br />
+      *food ordering web*
+
+      * Utilized a user-centered design approach to create an intuitive and visually appealing interface, enhancing the user experience for seamless food ordering.
+      * Collaborated closely with developers and stakeholders to transform design concepts into functional web pages, ensuring seamless integration of design and functionality.
+      * Employed HTML, CSS, and JavaScript to bring the design to life, contributing to a user-friendly and interactive browsing experience.
+      * Led usability testing initiatives to gain valuable insights from users, facilitating iterative design improvements.
+      * Demonstrated a commitment to continuous improvement by leveraging user insights to inform design decisions.
+      
+
 -----
 ### Professional Experience
 **Mar 2022 - Present**
