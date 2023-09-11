@@ -33,9 +33,11 @@ Creative and detail-oriented computer science student with advanced knowledge in
 :    **Project developer**<br />
      *Student life*
 
-     * Developed and contributed to "Student Life," an Android time management app designed to streamline task organization and enhance productivity for students.
+     * Developed and contributed to "Student Life," an Android time management app designed to streamline task organization and enhance productivity for students. 
      * Collaborated with a cross-functional team to gather requirements, design user interfaces, and implement
 new features, resulting in an intuitive and user-friendly app.
+     * Designed the front-end interface of each module using Android Studio and connected the interaction with back-end MySQL database.
+     * Conducted thorough unit testing, integration testing, system testing and debugging, resulting in a bug-free and reliable application.
      * Assumed project management responsibilities, effectively coordinating tasks and team efforts to achieve project milestones within set timelines.
      * Participated in regular team meetings, fostering open communication and productive collaboration among team members.
 
@@ -44,10 +46,11 @@ new features, resulting in an intuitive and user-friendly app.
      *Fitness app*
 
      * Conceptualized and designed a dynamic and user-centric online fitness tracking website, leveraging expertise in human-computer interaction principles.
+     * Constructed front-end framework using React and applied HTML and CSS technologies to design an interactive interface.
      * Through meticulous attention to detail spearheaded the refinement of the website's design.
      * Collaborated closely with developers and stakeholders to transform design concepts into functional web pages, ensuring seamless integration of design and functionality.
      * Skillfully gathered and analyzed user feedback to iteratively refine the website's design, resulting in improved user satisfaction and engagement.
-
+    
  **Sep 2021 - Jan 2022**   
  :    **Web designer**<br />
       *food ordering web*
@@ -55,7 +58,9 @@ new features, resulting in an intuitive and user-friendly app.
       * Utilized a user-centered design approach to create an intuitive and visually appealing interface, enhancing the user experience for seamless food ordering.
       * Collaborated closely with developers and stakeholders to transform design concepts into functional web pages, ensuring seamless integration of design and functionality.
       * Employed HTML, CSS, and JavaScript to bring the design to life, contributing to a user-friendly and interactive browsing experience.
+      * Constructed an online MongoDB database, designed the relevant data structure and used API to achieve the connection between server and database.
       * Led usability testing initiatives to gain valuable insights from users, facilitating iterative design improvements.
+      * Applied load test using JMeter to see whether it passed the req/min target. 
       * Demonstrated a commitment to continuous improvement by leveraging user insights to inform design decisions.
       
 
