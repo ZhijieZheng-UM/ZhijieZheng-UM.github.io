@@ -60,7 +60,7 @@ new features, resulting in an intuitive and user-friendly app.
       * Employed HTML, CSS, and JavaScript to bring the design to life, contributing to a user-friendly and interactive browsing experience.
       * Constructed an online MongoDB database, designed the relevant data structure and used API to achieve the connection between server and database.
       * Led usability testing initiatives to gain valuable insights from users, facilitating iterative design improvements.
-      * Applied load test using JMeter to see whether it passed the req/min target. 
+      * Applied load test using JMeter to see whether it passed the 1000 req/min target. 
       * Demonstrated a commitment to continuous improvement by leveraging user insights to inform design decisions.
       
 
