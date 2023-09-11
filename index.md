@@ -68,6 +68,12 @@ new features, resulting in an intuitive and user-friendly app.
     
 -----
 ### Skills
+**Technical Skills**
+:    1. Java, Android Studio, Linux/Unix, Vim, VSCode, Microsoft Office
+     2. Experience with software development tools, such as JIRA, Confluence, and Source Code Management
+     3. Familiarity with SQL, Oracle, Microsoft SQL Server, and basic Unix/Windows systems
+     4. Basic knowledge of AWS solutions/resources, SmartCommunications platforms
+
 **Interpersonal Skills**
 :    1. Critically Analyses
      2. Teamwork
@@ -75,15 +81,3 @@ new features, resulting in an intuitive and user-friendly app.
      4. Fast Learner
      5. Problem-solving
      6. Time Management
-
-**Software**
-:    1. Microsoft Office
-     2. Linux/Unix Remote Server
-     3. Vim
-     4. Android Studio
-     5. Vscode
-
-**Languages**
-:    1. English
-     2. Mandarin Chinese (Native)
-     3. Japanese
