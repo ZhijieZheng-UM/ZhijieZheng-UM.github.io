@@ -50,11 +50,14 @@ new features, resulting in an intuitive and user-friendly app.
      
 -----
 ### Professional Experience
-**2022.03 - Present**
+**Mar 2022 - Present**
 :    **Courier**<br />
      *SkipTheDishes*
      
-     Deliver food products in accordance with all sanitation, and safety principles. Verify customers’ online food orders and deliver them on time with an excellent professional attitude.
+     * Ensured timely deliveries while adhering to sanitation and safety guidelines.
+     * Verified customers' online food orders with meticulous attention to detail, ensuring accuracy in the delivery process.
+     * Earned consistent positive feedback for excellent customer service and professionalism.
+     * Utilized problem-solving skills to navigate efficiently and find optimal routes for on-time deliveries.
      
 -----
 ### Volunteer Experience
