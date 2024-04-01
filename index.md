@@ -8,7 +8,7 @@
 
 -----
 ### Objective
-Passionate and detail-oriented car enthusiast with a strong work ethic and unwavering commitment to delivering exceptional service while upholding the highest standards of cleanliness and quality.  Possesses meticulous attention to detail, effective problem-solving, and multitasking skills. Adept at collaborating within teams to achieve efficient results and committed to continuous learning. Holds a valid Class 5 driver's license with a clean record and is proficient in driving both automatic and manual transmission vehicles with confidence and expertise.
+Passionate and detail-oriented car enthusiast with a strong work ethic. Committed to delivering exceptional service and upholding the highest standards of cleanliness and quality. Possesses meticulous attention to detail, effective problem-solving, and multitasking skills. Adept at collaborating within teams to achieve efficient results and committed to continuous learning. Holds a valid Class 5 driver's license with a clean record and is proficient in driving both automatic and manual transmission vehicles with confidence and expertise.
 
 -----
 ### Education
@@ -17,7 +17,6 @@ Passionate and detail-oriented car enthusiast with a strong work ethic and unwav
      *University of Manitoba, Winnipeg*
      * GPA: 3.8
      * Winter 2019 Honour Roll
-     : Demonstrated strong academic performance as a full-time student
  
 -----
 ### Skills
@@ -28,10 +27,10 @@ Passionate and detail-oriented car enthusiast with a strong work ethic and unwav
      
 **Soft Skills**
 :    *   Excellent attention to detail, ensuring every vehicle receives a meticulous and thorough cleaning.
-     *   Strong work ethic, able to work diligently with minimal supervision, managing time effectively to meet tight cleaning schedules and prioritize tasks accordingly.
+     *   Strong organizational skills for maintaining a clean and efficient workspace.
      *   Ability to adapt to changing situations and willingness to take on new challenges.
      *   Strong team player, capable of collaborating effectively with others.
-     *   Quick learner, adaptable to new technologies and methodologies.
+     *   Quick learner and adaptable to new technologies and methodologies in car detailing.
      
 ----- 
 ### Experience
