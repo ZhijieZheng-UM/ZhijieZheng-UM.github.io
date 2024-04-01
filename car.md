@@ -1,5 +1,4 @@
 # Zhijie Zheng
-## New Graduate University Student
 
 > 71 Caribou Crescent       
 > Winnipeg, Manitoba    
@@ -9,23 +8,17 @@
 
 -----
 ### Objective
-Dedicated and detail-oriented new graduate with a strong work ethic and a passion for automobiles. Offering meticulous attention to detail, effective problem-solving and multitasking skills. Adept at collaborating within teams to achieve efficient results and committed to continuous learning. Possesses a valid Class 5 driver's license with a clean driving record. Capable of driving both automatic and manual transmission vehicles with confidence and expertise.
+Dedicated,detail-oriented and skilled car lover with a strong work ethic and a passion for automobiles. Offering meticulous attention to detail, effective problem-solving and multitasking skills. Adept at collaborating within teams to achieve efficient results and committed to continuous learning. Possesses a valid Class 5 driver's license with a clean driving record. Capable of driving both automatic and manual transmission vehicles with confidence and expertise.
 
 -----
 ### Education
-**Sept 2018 - Aug 2019**
-:    **Bachelor of Science, Computer Science**<br />
-     *International College of Manitoba, Winnipeg*
-     * GPA: 4.00
-     * Winter 2019 Honour Roll
-     : Demonstrated strong academic performance as a full-time student
-
-**Sept 2019 - Feb 2023**
+**Sept 2018 - Feb 2023**
 :    **Bachelor of Science, Computer Science**<br />
      *University of Manitoba, Winnipeg*
      * GPA: 3.8
-     * Active participant in computer science-related projects and activities
-    
+     * Winter 2019 Honour Roll
+     : Demonstrated strong academic performance as a full-time student
+ 
 -----
 ### Skills
 **Ability**
@@ -42,18 +35,6 @@ processes.
      *   Strong team player, capable of collaborating effectively with others.
      *   Quick learner, adaptable to new technologies and methodologies.
      
-**Software**
-:    *  Microsoft Office (Word, Excel, Powerpoint)
-     *  Google Drive (Docs, Sheets, Slides, Forms)
-     *  Outlook and Gmail
-     *  Database Management
-     *  Linux/Unix Remote Server
-
-**Languages**
-:    *  English
-     *  Mandarin Chinese (Native)
-     *  Japanese
-     
 ----- 
 ### Experience
 **2020 - Present**
@@ -64,6 +45,16 @@ processes.
      * Applied attention to detail in the cleaning of both interior and exterior surfaces.
      * Developed effective cleaning routines to ensure consistent results.
 
+**2023 - Present**
+:    **Prep Cook**<br />
+     *Aisan Hot Pot*
+     
+     * Prepare and cook ingredients according to recipes and quality standards.
+     * Organize and maintain a clean and efficient workspace to ensure food safety and hygiene.
+     * Collaborate with kitchen staff to streamline food preparation processes and ensure timely service.
+     * Demonstrate attention to detail in food presentation and garnishing.
+     * Manage inventory and stock rotation to minimize waste and maintain freshness.
+
 **Mar 2022 - Present**
 :    **Courier**<br />
      *SkipTheDishes*
@@ -73,16 +64,6 @@ processes.
      * Earned consistent positive feedback for excellent customer service and professionalism.
      * Utilized problem-solving skills to navigate efficiently and find optimal routes for on-time deliveries.
   
------
-### Volunteering
-**Jan 2015 - Apr 2016**
-:    **Guide Desk volunteer**<br />
-     *Shanghai Pudong Hospital*
-
-     * Provided exceptional customer service by operating the registration system, assisting patients with acquiring numbers, and guiding them to their respective destinations.
-     * Demonstrated strong communication skills in interacting with patients, answering inquiries, and ensuring a smooth and pleasant experience for hospital visitors.
-     * Collaborated effectively with hospital staff and volunteers to optimize patient flow and minimize waiting times.
-    
 -----
 ### Projects
 **Feb 2021 - May 2021**
