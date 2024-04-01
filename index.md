@@ -8,7 +8,7 @@
 
 -----
 ### Objective
-Dedicated,detail-oriented and skilled car lover with a strong work ethic and a passion for automobiles. Offering meticulous attention to detail, effective problem-solving and multitasking skills. Adept at collaborating within teams to achieve efficient results and committed to continuous learning. Possesses a valid Class 5 driver's license with a clean driving record. Capable of driving both automatic and manual transmission vehicles with confidence and expertise.
+Dedicated,detail-oriented and skilled car lover with a strong work ethic and a strong commitment to delivering exceptional service and maintaining the highest standards of cleanliness and quality. Offering meticulous attention to detail, effective problem-solving and multitasking skills. Adept at collaborating within teams to achieve efficient results and committed to continuous learning. Possesses a valid Class 5 driver's license with a clean driving record. Capable of driving both automatic and manual transmission vehicles with confidence and expertise.
 
 -----
 ### Education
@@ -63,24 +63,4 @@ processes.
      * Verified customers' online food orders with meticulous attention to detail, ensuring accuracy in the delivery process.
      * Earned consistent positive feedback for excellent customer service and professionalism.
      * Utilized problem-solving skills to navigate efficiently and find optimal routes for on-time deliveries.
-  
------
-### Projects
-**Feb 2021 - May 2021**
-:    **Project developer**<br />
-     *Student life*
-
-     * Developed and contributed to "Student Life," an Android time management app designed to streamline task organization and enhance productivity for students.
-     * Collaborated with a cross-functional team to gather requirements, design user interfaces, and implement
-new features, resulting in an intuitive and user-friendly app.
-     * Assumed project management responsibilities, effectively coordinating tasks and team efforts to achieve project milestones within set timelines.
-     * Participated in regular team meetings, fostering open communication and productive collaboration among team members.
-
-**Sep 2021 - Jan 2022**
-:    **Web designer**<br />
-     *Fitness app*
-
-     * Conceptualized and designed a dynamic and user-centric online fitness tracking website, leveraging expertise in human-computer interaction principles.
-     * Through meticulous attention to detail spearheaded the refinement of the website's design.
-     * Collaborated closely with developers and stakeholders to transform design concepts into functional web pages, ensuring seamless integration of design and functionality.
      * Skillfully gathered and analyzed user feedback to iteratively refine the website's design, resulting in improved user satisfaction and engagement.
