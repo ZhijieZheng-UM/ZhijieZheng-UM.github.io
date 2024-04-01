@@ -24,9 +24,7 @@ Passionate and detail-oriented car enthusiast with a strong work ethic and unwav
 **Ability**
 :    *   Valid Class 5 driver's license with a clean record, enabling safe and responsible vehicle movement.
      *   Skilled in driving both automatic and manual transmission vehicles, allowing for a wide range of vehicles to be handled efficiently.
-     *   Familiar with operating pressure washers and vacuum cleaners, ensuring thorough and efficient cleaning
-processes.
-     *   Own a reliable vehicle and maintain it properly, ensuring punctuality and dependability for daily commute to work.
+     *   Familiar with operating pressure washers, steam cleaners, and other detailing tools for thorough cleaning processes.
      
 **Soft Skills**
 :    *   Excellent attention to detail, ensuring every vehicle receives a meticulous and thorough cleaning.
@@ -51,7 +49,7 @@ processes.
      
      * Prepare and cook ingredients according to recipes and quality standards.
      * Organize and maintain a clean and efficient workspace to ensure food safety and hygiene.
-     * Collaborate with kitchen staff to streamline food preparation processes and ensure timely service.
+     * Collaborate with team members to streamline food preparation processes and ensure timely service.
      * Demonstrate attention to detail in food presentation and garnishing.
      * Manage inventory and stock rotation to minimize waste and maintain freshness.
 
