@@ -8,7 +8,7 @@
 
 -----
 ### Objective
-Dedicated,detail-oriented and skilled car lover with a strong work ethic and a strong commitment to delivering exceptional service and maintaining the highest standards of cleanliness and quality. Offering meticulous attention to detail, effective problem-solving and multitasking skills. Adept at collaborating within teams to achieve efficient results and committed to continuous learning. Possesses a valid Class 5 driver's license with a clean driving record. Capable of driving both automatic and manual transmission vehicles with confidence and expertise.
+Passionate and detail-oriented car enthusiast with a strong work ethic and unwavering commitment to delivering exceptional service while upholding the highest standards of cleanliness and quality.  Possesses meticulous attention to detail, effective problem-solving, and multitasking skills. Adept at collaborating within teams to achieve efficient results and committed to continuous learning. Holds a valid Class 5 driver's license with a clean record and is proficient in driving both automatic and manual transmission vehicles with confidence and expertise.
 
 -----
 ### Education
