@@ -39,7 +39,7 @@ Passionate and detail-oriented car enthusiast with a strong work ethic. Committe
      *Self-Directed Experience*
      
      * Personally maintained and detailed own vehicle, demonstrating a commitment to cleanliness and upkeep.
-     * Applied attention to detail in the cleaning of both interior and exterior surfaces.
+     * Applied attention to detail in cleaning both interior and exterior surfaces.
      * Developed effective cleaning routines to ensure consistent results.
 
 **2023 - Present**
