@@ -42,7 +42,7 @@ Passionate and detail-oriented car enthusiast with a strong work ethic, committe
      * Applied meticulous attention to detail in cleaning both interior and exterior surfaces.
      * Developed and implemented effective cleaning routines, ensuring consistent results.
 
-**2023 - Present**
+**Sept 2023 - Present**
 :    **Prep Cook**<br />
      *Aisan Hot Pot*
      
