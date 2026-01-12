@@ -7,13 +7,12 @@
  
 -----
 ### Profile
-Creative and detail-oriented software developer with advanced knowledge in Java and extensive team project experience. Highly effective in problem-solving and communication. Proven ability to work collaboratively in team projects and self-management abilities.
+Detail-oriented software developer with a strong foundation in software testing, test design, and defect tracking, backed by a Computer Science background. Experienced in  testing across web and mobile applications, including functional, integration, system, and load testing. Skilled in collaborating with cross-functional teams to ensure product quality, usability, and reliability throughout the software development lifecycle.
 
 -----
 ### Education
-**  **
-:    **Bachelor of Science, Computer Science**<br />
-     *University of Manitoba, Winnipeg*
+**Bachelor of Science, Computer Science**
+:    *University of Manitoba, Winnipeg*
      * GPA: 3.8
      
 -----
