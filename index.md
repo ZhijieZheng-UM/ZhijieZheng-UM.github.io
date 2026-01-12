@@ -7,17 +7,10 @@
  
 -----
 ### Profile
-Creative and detail-oriented computer science student with advanced knowledge in Java and extensive team project experience. Highly effective in problem-solving and communication. Proven ability to work collaboratively in team projects and self-management abilities.
+Creative and detail-oriented software developer with advanced knowledge in Java and extensive team project experience. Highly effective in problem-solving and communication. Proven ability to work collaboratively in team projects and self-management abilities.
 
 -----
 ### Education
-**Sept 2018 - Aug 2019**
-:    **Bachelor of Science, Computer Science**<br />
-     *International College of Manitoba, Winnipeg*
-     * GPA: 4.00
-     * Winter 2019 Honour Roll
-     : Demonstrated strong academic performance as a full-time student
-
 **Sept 2019 - Feb 2023**
 :    **Bachelor of Science, Computer Science**<br />
      *University of Manitoba, Winnipeg*
