@@ -11,8 +11,8 @@ Creative and detail-oriented software developer with advanced knowledge in Java 
 
 -----
 ### Education
-** **
-:   **Bachelor of Science, Computer Science**<br />
+**  **
+:    **Bachelor of Science, Computer Science**<br />
      *University of Manitoba, Winnipeg*
      * GPA: 3.8
      
