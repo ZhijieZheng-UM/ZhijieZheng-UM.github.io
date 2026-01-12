@@ -19,37 +19,32 @@ Detail-oriented software developer with a strong foundation in software testing,
 ### Projects Experience
 **Feb 2021 - May 2021**
 :    **Project developer**<br />
-     *Student life*
+     *Student life (Android Application)*
 
-     * Developed and contributed to "Student Life," an Android time management app designed to streamline task organization and enhance productivity for students. 
-     * Collaborated with a cross-functional team to gather requirements, design user interfaces, and implement
-new features, resulting in an intuitive and user-friendly app.
-     * Designed the front-end interface of each module using Android Studio and connected the interaction with back-end MySQL database.
-     * Conducted thorough unit testing, integration testing, system testing and debugging, resulting in a bug-free and reliable application.
-     * Assumed project management responsibilities, effectively coordinating tasks and team efforts to achieve project milestones within set timelines.
-     * Participated in regular team meetings, fostering open communication and productive collaboration among team members.
-
+     * Contributed to the development and quality assurance of an Android-based time management application designed to improve student productivity.
+     * Designed and executed comprehensive test cases covering unit, integration, and system testing to validate core application functionality
+     * Identified, documented, and tracked software defects, collaborating closely with developers to ensure timely resolution and verification.
+     * Validated front-end interactions and back-end data integrity by testing API connections with a MySQL database.
+     * Coordinated testing activities and project tasks, supporting on-time delivery of project milestones through effective team collaboration.
+     
 **Sep 2021 - Jan 2022**
 :    **Web designer**<br />
-     *Fitness app*
+     *Fitness Tracking Web Application*
 
-     * Conceptualized and designed a dynamic and user-centric online fitness tracking website, leveraging expertise in human-computer interaction principles.
-     * Constructed front-end framework using React and applied HTML and CSS technologies to design an interactive interface.
-     * Through meticulous attention to detail spearheaded the refinement of the website's design.
-     * Collaborated closely with developers and stakeholders to transform design concepts into functional web pages, ensuring seamless integration of design and functionality.
-     * Skillfully gathered and analyzed user feedback to iteratively refine the website's design, resulting in improved user satisfaction and engagement.
+     * Participated in end-to-end testing of a user-centric fitness tracking website to ensure functionality, usability, and visual consistency.
+     * Executed functional and usability testing across multiple user scenarios, identifying UI and workflow issues prior to release.
+     * Collaborated with developers to validate React-based front-end components built with HTML and CSS.
+     *Gathered and analyzed user feedback, supporting iterative improvements and regression testing cycles.
     
  **Sep 2021 - Jan 2022**   
  :    **Web designer**<br />
-      *food ordering web*
+      *Food Ordering Web Application*
 
-      * Utilized a user-centered design approach to create an intuitive and visually appealing interface, enhancing the user experience for seamless food ordering.
-      * Collaborated closely with developers and stakeholders to transform design concepts into functional web pages, ensuring seamless integration of design and functionality.
-      * Employed HTML, CSS, and JavaScript to bring the design to life, contributing to a user-friendly and interactive browsing experience.
-      * Constructed an online MongoDB database, designed the relevant data structure and used API to achieve the connection between server and database.
-      * Led usability testing initiatives to gain valuable insights from users, facilitating iterative design improvements.
-      * Applied load test using JMeter to see whether it passed the 1000 req/min target. 
-      * Demonstrated a commitment to continuous improvement by leveraging user insights to inform design decisions.
+      * Performed functional, usability, and integration testing for an online food ordering platform.
+      * Designed and validated test scenarios for front-end features implemented using HTML, CSS, and JavaScript.
+      * Tested API integrations between the server and MongoDB database, verifying data accuracy and reliability.
+      * Conducted load testing using JMeter to validate system performance against a target of 1000 requests per minute.
+      * Led usability testing sessions and documented findings to support continuous product improvement.
       
 
 -----
@@ -70,6 +65,14 @@ new features, resulting in an intuitive and user-friendly app.
      2. Experience with software development tools, such as JIRA, Confluence, and Source Code Management
      3. Familiarity with SQL, Oracle, Microsoft SQL Server, and basic Unix/Windows systems
      4. Basic knowledge of AWS solutions/resources, SmartCommunications platforms
+
+     • Testing Types: Manual Testing, Functional Testing, Integration Testing, System Testing, Regression Testing, Usability Testing, Load Testing
+     • Test Tools & Platforms: JMeter, Android Studio
+     • Languages & Scripting: Java, JavaScript, Python, C
+     • Web & Mobile Technologies: HTML, CSS, React, Android
+     • Databases: MySQL, MongoDB
+     • Tools & Practices: Visual Studio, Git, Postman
+     • Cloud & DevOps: AWS, CI/CD 
 
 **Interpersonal Skills**
 :    1. Critically Analyses
