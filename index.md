@@ -1,10 +1,7 @@
 # Zhijie Zheng
-## New Graduate Computer Science Student
 
-
-> 71 Caribou Crescent       
-> Winnipeg, Manitoba    
-> R3Y 0G3       
+      
+> Winnipeg, Manitoba         
 > (204)590-5931     
 > Zheng.Zhijie@hotmail.com 
  
