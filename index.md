@@ -11,11 +11,9 @@ Creative and detail-oriented software developer with advanced knowledge in Java 
 
 -----
 ### Education
-**Sept 2019 - Feb 2023**
-:    **Bachelor of Science, Computer Science**<br />
+    **Bachelor of Science, Computer Science**<br />
      *University of Manitoba, Winnipeg*
      * GPA: 3.8
-     * Active participant in computer science-related projects and activities
      
 -----
 ### Projects Experience
@@ -65,16 +63,6 @@ new features, resulting in an intuitive and user-friendly app.
      * Earned consistent positive feedback for excellent customer service and professionalism.
      * Utilized problem-solving skills to navigate efficiently and find optimal routes for on-time deliveries.
      
------
-### Volunteer Experience
-**Jan 2015 - Apr 2016**
-:    **Guide Desk volunteer**<br />
-     *Shanghai Pudong Hospital*
-
-     * Provided exceptional customer service by operating the registration system, assisting patients with acquiring numbers, and guiding them to their respective destinations.
-     * Demonstrated strong communication skills in interacting with patients, answering inquiries, and ensuring a smooth and pleasant experience for hospital visitors.
-     * Collaborated effectively with hospital staff and volunteers to optimize patient flow and minimize waiting times.
-    
 -----
 ### Skills
 **Technical Skills**
