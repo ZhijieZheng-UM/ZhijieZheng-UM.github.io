@@ -13,9 +13,8 @@ Detail-oriented software developer with a strong foundation in software testing,
      
 -----
 ### Projects Experience
-
 **Project developer**
-:     **Student life (Android Application)**<br />
+:     **Student life Android Application**<br />
      
           *Contributed to the development and quality assurance of an Android-based time management application designed to improve student productivity.
           *Designed and executed comprehensive test cases covering unit, integration, and system testing to validate core application functionality
@@ -32,7 +31,7 @@ Detail-oriented software developer with a strong foundation in software testing,
      * Gathered and analyzed user feedback, supporting iterative improvements and regression testing cycles.
     
  **Web designer**   
- :    **Food Ordering Web Application**<br />
+:    **Food Ordering Web Application**<br />
    
       * Performed functional, usability, and integration testing for an online food ordering platform.
       * Designed and validated test scenarios for front-end features implemented using HTML, CSS, and JavaScript.
