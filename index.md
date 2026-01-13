@@ -1,9 +1,8 @@
 # Zhijie Zheng
-
       
-> Winnipeg, Manitoba         
-> (204)590-5931     
-> Zheng.Zhijie@hotmail.com 
+Winnipeg, Manitoba         
+(204)590-5931     
+Zheng.Zhijie@hotmail.com 
  
 -----
 ### Profile
