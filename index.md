@@ -34,7 +34,7 @@ Detail-oriented software developer with a strong foundation in software testing,
      * Participated in end-to-end testing of a user-centric fitness tracking website to ensure functionality, usability, and visual consistency.
      * Executed functional and usability testing across multiple user scenarios, identifying UI and workflow issues prior to release.
      * Collaborated with developers to validate React-based front-end components built with HTML and CSS.
-     *Gathered and analyzed user feedback, supporting iterative improvements and regression testing cycles.
+     * Gathered and analyzed user feedback, supporting iterative improvements and regression testing cycles.
     
  **Sep 2021 - Jan 2022**   
  :    **Web designer**<br />
@@ -46,18 +46,6 @@ Detail-oriented software developer with a strong foundation in software testing,
       * Conducted load testing using JMeter to validate system performance against a target of 1000 requests per minute.
       * Led usability testing sessions and documented findings to support continuous product improvement.
       
-
------
-### Professional Experience
-**Mar 2022 - Present**
-:    **Courier**<br />
-     *SkipTheDishes*
-     
-     * Ensured timely deliveries while adhering to sanitation and safety guidelines.
-     * Verified customers' online food orders with meticulous attention to detail, ensuring accuracy in the delivery process.
-     * Earned consistent positive feedback for excellent customer service and professionalism.
-     * Utilized problem-solving skills to navigate efficiently and find optimal routes for on-time deliveries.
-     
 -----
 ### Skills
 **Technical Skills**
