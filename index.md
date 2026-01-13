@@ -3,7 +3,7 @@ Winnipeg, MB | (204)590-5931 | Zheng.Zhijie@hotmail.com
 
 -----
 ### Professional Summary
-Detail-oriented software developer with a solid foundation in software testing, test design, and defect tracking, supported by a Computer Science background. Experience in testing web and mobile applications, including functional, integration, system, and load testing. Comfortable working with cross-functional teams to help ensure product quality, usability, and reliability throughout the software development lifecycle.
+Detail-oriented software developer with a solid foundation in software testing, test design, and defect tracking, supported by a Computer Science background. Experienced in testing web and mobile applications, including functional, integration, system, and load testing. Comfortable working with cross-functional teams to help ensure product quality, usability, and reliability throughout the software development lifecycle.
 
 -----
 ### Education
@@ -20,7 +20,7 @@ Detail-oriented software developer with a solid foundation in software testing, 
 * Cloud & DevOps: Basic knowledge of AWS, CI/CD 
   
 -----
-### Projects Experience
+### Project Experience
 **Food Ordering – Web Application**<br />
 * Performed functional, usability, and integration testing for an online food ordering platform to validate end-to-end user workflows.
 * Designed and executed test scenarios for front-end features implemented using HTML, CSS, and JavaScript, identifying UI and workflow defects.
