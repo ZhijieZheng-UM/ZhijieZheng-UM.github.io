@@ -33,15 +33,15 @@ Detail-oriented software developer with a strong foundation in software testing,
      
 
 **Fitness Tracking – Web Application**<br />
-:    * Participated in end-to-end testing of a user-centric fitness tracking website to ensure functionality, usability, and visual consistency.
-     * Executed functional and usability testing across multiple user scenarios, identifying UI and workflow issues prior to release.
-     * Collaborated with developers to validate React-based front-end components built with HTML and CSS.
-     * Gathered and analyzed user feedback, supporting iterative improvements and regression testing cycles.
+* Participated in end-to-end testing of a user-centric fitness tracking website to ensure functionality, usability, and visual consistency.
+* Executed functional and usability testing across multiple user scenarios, identifying UI and workflow issues prior to release.
+* Collaborated with developers to validate React-based front-end components built with HTML and CSS.
+* Gathered and analyzed user feedback, supporting iterative improvements and regression testing cycles.
     
 **Food Ordering – Web Application**<br />
-:     * Performed functional, usability, and integration testing for an online food ordering platform.
-      * Designed and validated test scenarios for front-end features implemented using HTML, CSS, and JavaScript.
-      * Tested API integrations between the server and MongoDB database, verifying data accuracy and reliability.
-      * Conducted load testing using JMeter to validate system performance against a target of 1000 requests per minute.
-      * Led usability testing sessions and documented findings to support continuous product improvement.
+* Performed functional, usability, and integration testing for an online food ordering platform.
+* Designed and validated test scenarios for front-end features implemented using HTML, CSS, and JavaScript.
+* Tested API integrations between the server and MongoDB database, verifying data accuracy and reliability.
+* Conducted load testing using JMeter to validate system performance against a target of 1000 requests per minute.
+* Led usability testing sessions and documented findings to support continuous product improvement.
       
