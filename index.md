@@ -54,13 +54,13 @@ Detail-oriented software developer with a strong foundation in software testing,
      3. Familiarity with SQL, Oracle, Microsoft SQL Server, and basic Unix/Windows systems
      4. Basic knowledge of AWS solutions/resources, SmartCommunications platforms
 
-     • Testing Types: Manual Testing, Functional Testing, Integration Testing, System Testing, Regression Testing, Usability Testing, Load Testing
-     • Test Tools & Platforms: JMeter, Android Studio
-     • Languages & Scripting: Java, JavaScript, Python, C
-     • Web & Mobile Technologies: HTML, CSS, React, Android
-     • Databases: MySQL, MongoDB
-     • Tools & Practices: Visual Studio, Git, Postman
-     • Cloud & DevOps: AWS, CI/CD 
+     * Testing Types: Manual Testing, Functional Testing, Integration Testing, System Testing, Regression Testing, Usability Testing, Load Testing
+     * Test Tools & Platforms: JMeter, Android Studio
+     * Languages & Scripting: Java, JavaScript, Python, C
+     * Web & Mobile Technologies: HTML, CSS, React, Android
+     * Databases: MySQL, MongoDB
+     * Tools & Practices: Visual Studio, Git, Postman
+     * Cloud & DevOps: AWS, CI/CD 
 
 **Interpersonal Skills**
 :    1. Critically Analyses
