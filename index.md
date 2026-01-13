@@ -22,15 +22,15 @@ Detail-oriented software developer with a strong foundation in software testing,
 -----
 ### Projects Experience
 **Food Ordering – Web Application**<br />
-* Performed functional, usability, and integration testing for an online food ordering platform.
-* Designed and validated test scenarios for front-end features implemented using HTML, CSS, and JavaScript.
+* Performed functional, usability, and integration testing for an online food ordering platform to validate end-to-end user workflows.
+* Designed and executed test scenarios for front-end features implemented using HTML, CSS, and JavaScript, identifying UI and workflow defects.
 * Tested API integrations between the server and MongoDB database, verifying data accuracy and reliability.
-* Conducted load testing using JMeter to validate system performance against a target of 1000 requests per minute.
-* Led usability testing sessions and documented findings to support continuous product improvement.
+* Conducted load testing using JMeter to verify system performance against a target of 1000 requests per minute and analyzed test results.
+* Led usability testing sessions and documented findings to support iterative improvements and regression testing.
   
 **Student Life – Android Application**<br />
 * Contributed to the development and quality assurance of an Android-based time management application designed to improve student productivity.
-* Designed and executed comprehensive test cases covering unit, integration, and system testing to validate core application functionality
+* Designed and executed comprehensive test cases covering unit, integration, and system testing to validate core application functionality.
 * Identified, documented, and tracked software defects, collaborating closely with developers to ensure timely resolution and verification.
 * Validated front-end interactions and back-end data integrity by testing API connections with a MySQL database.
 * Coordinated testing activities and project tasks, supporting on-time delivery of project milestones through effective team collaboration.
