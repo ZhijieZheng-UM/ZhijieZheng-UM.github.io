@@ -3,7 +3,7 @@ Winnipeg, MB | (204)590-5931 | Zheng.Zhijie@hotmail.com
 
 -----
 ### PROFESSIONAL SUMMARY
-Detail-oriented software developer with hands-on experience in software testing. Skilled at designing test cases, identifying defects, and collaborating with teams to improve application quality.
+Detail-oriented software developer with hands-on experience in software testing. Skilled at designing test cases, identifying defects, and collaborating with teams to help ensure product quality and usability.
 
 -----
 ### EDUCATION
