@@ -16,7 +16,7 @@ Detail-oriented software developer with a strong foundation in software testing,
      
 -----
 ### Projects Experience
-     **Project developer**<br />
+**Project developer**<br />
      *Student life (Android Application)*
 
      * Contributed to the development and quality assurance of an Android-based time management application designed to improve student productivity.
