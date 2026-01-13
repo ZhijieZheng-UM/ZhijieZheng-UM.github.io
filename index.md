@@ -12,6 +12,25 @@ Detail-oriented software developer with a strong foundation in software testing,
      GPA: 3.8
      
 -----
+### Skills
+**Technical Skills**
+:    * Testing Types: Manual Testing, Functional Testing, Integration Testing, System Testing, Regression Testing, Usability Testing, Load Testing
+     * Test Tools & Platforms: JMeter, Android Studio
+     * Languages & Scripting: Java, JavaScript, Python, C
+     * Web & Mobile Technologies: HTML, CSS, React, Android
+     * Databases: MySQL, MongoDB
+     * Tools & Practices: Visual Studio, Git, Postman
+     * Cloud & DevOps: AWS, CI/CD 
+
+**Interpersonal Skills**
+:    1. Critically Analyses
+     2. Teamwork
+     3. Attention to Detail
+     4. Fast Learner
+     5. Problem-solving
+     6. Time Management
+     
+-----
 ### Projects Experience
 **Project developer**
 :    **Student life Android Application**<br />
@@ -39,21 +58,3 @@ Detail-oriented software developer with a strong foundation in software testing,
       * Conducted load testing using JMeter to validate system performance against a target of 1000 requests per minute.
       * Led usability testing sessions and documented findings to support continuous product improvement.
       
------
-### Skills
-**Technical Skills**
-:    * Testing Types: Manual Testing, Functional Testing, Integration Testing, System Testing, Regression Testing, Usability Testing, Load Testing
-     * Test Tools & Platforms: JMeter, Android Studio
-     * Languages & Scripting: Java, JavaScript, Python, C
-     * Web & Mobile Technologies: HTML, CSS, React, Android
-     * Databases: MySQL, MongoDB
-     * Tools & Practices: Visual Studio, Git, Postman
-     * Cloud & DevOps: AWS, CI/CD 
-
-**Interpersonal Skills**
-:    1. Critically Analyses
-     2. Teamwork
-     3. Attention to Detail
-     4. Fast Learner
-     5. Problem-solving
-     6. Time Management
