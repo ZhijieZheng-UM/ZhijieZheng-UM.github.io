@@ -14,13 +14,13 @@ Detail-oriented software developer with a strong foundation in software testing,
 -----
 ### Projects Experience
 **Project developer**
-:     **Student life Android Application**<br />
+:    **Student life Android Application**<br />
      
-          *Contributed to the development and quality assurance of an Android-based time management application designed to improve student productivity.
-          *Designed and executed comprehensive test cases covering unit, integration, and system testing to validate core application functionality
-          *Identified, documented, and tracked software defects, collaborating closely with developers to ensure timely resolution and verification.
-          *Validated front-end interactions and back-end data integrity by testing API connections with a MySQL database.
-          *Coordinated testing activities and project tasks, supporting on-time delivery of project milestones through effective team collaboration.
+     *Contributed to the development and quality assurance of an Android-based time management application designed to improve student productivity.
+     *Designed and executed comprehensive test cases covering unit, integration, and system testing to validate core application functionality
+     *Identified, documented, and tracked software defects, collaborating closely with developers to ensure timely resolution and verification.
+     *Validated front-end interactions and back-end data integrity by testing API connections with a MySQL database.
+     *Coordinated testing activities and project tasks, supporting on-time delivery of project milestones through effective team collaboration.
      
 
 **Fitness Tracking Web Application**<br />
