@@ -30,10 +30,9 @@ Detail-oriented software developer with hands-on experience in software testing,
 **Student Life – Android Application**<br />
 * Contributed to the development and quality assurance of an Android-based time management application designed to improve student productivity.
 * Designed and executed test cases covering unit, integration, and system testing to validate core application functionality.
-* Identified and tracked defects, collaborating with team members to ensure timely resolution and verification.
 * Validated front-end interactions and back-end data integrity by testing API connections with a MySQL database.
 
 **Fitness Tracking – Web Application**<br />
 * Participated in end-to-end testing of a user-centric fitness tracking website to ensure functionality, usability, and visual consistency.
 * Executed functional and usability testing across multiple user scenarios, identifying UI and workflow issues prior to release.
-* Collaborated with developers to validate front-end components and back-end data.
+* Verified front-end components and back-end data to ensure reliability.
