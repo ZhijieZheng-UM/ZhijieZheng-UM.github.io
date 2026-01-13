@@ -2,7 +2,7 @@
 Winnipeg, MB | (204)590-5931 | Zheng.Zhijie@hotmail.com 
 
 -----
-### Professional Summary
+### PROFESSIONAL SUMMARY
 Detail-oriented software developer with hands-on experience in software testing, test design, and defect tracking, supported by a Computer Science background. Experienced in testing web and mobile applications, including functional, integration, system, and load testing. Comfortable collaborating with team members to help ensure product quality and usability.
 
 -----
@@ -11,7 +11,7 @@ Detail-oriented software developer with hands-on experience in software testing,
      University of Manitoba, Winnipeg - GPA: 3.8
      
 -----
-### Technical Skills
+### TECHNICAL SKILLS
 * Testing Types: Manual Testing, Functional Testing, Integration Testing, System Testing, Regression Testing, Usability Testing, Load Testing
 * Tools & Practices: JMeter, Postman, Git, Visual Studio
 * Languages & Scripting: Java, JavaScript, Python, C
@@ -20,7 +20,7 @@ Detail-oriented software developer with hands-on experience in software testing,
 * Cloud & DevOps: Basic knowledge of AWS, CI/CD 
   
 -----
-### Project Experience
+### PROJECT EXPERIENCE
 **Food Ordering – Web Application**<br />
 * Performed functional, usability, and integration testing for an online food ordering platform to validate end-to-end user workflows.
 * Designed and executed test scenarios for front-end features (HTML, CSS, JavaScript), identifying UI and workflow issues.
