@@ -43,8 +43,7 @@ Detail-oriented software developer with a strong foundation in software testing,
      
 
 **Fitness Tracking Web Application**<br />
-:
-     * Participated in end-to-end testing of a user-centric fitness tracking website to ensure functionality, usability, and visual consistency.
+:    * Participated in end-to-end testing of a user-centric fitness tracking website to ensure functionality, usability, and visual consistency.
      * Executed functional and usability testing across multiple user scenarios, identifying UI and workflow issues prior to release.
      * Collaborated with developers to validate React-based front-end components built with HTML and CSS.
      * Gathered and analyzed user feedback, supporting iterative improvements and regression testing cycles.
