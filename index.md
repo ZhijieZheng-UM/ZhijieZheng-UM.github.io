@@ -22,17 +22,16 @@ Detail-oriented software developer with hands-on experience in software testing.
 -----
 ### PROJECT EXPERIENCE
 **Food Ordering – Web Application**<br />
-* Performed functional, usability, and integration testing for an online food ordering platform to validate end-to-end user workflows.
-* Designed and executed test scenarios for front-end features (HTML, CSS, JavaScript), identifying UI and workflow issues.
-* Tested API integrations between the server and MongoDB database, verifying data accuracy and reliability.
+* Tested front-end (HTML, CSS, JavaScript) and back-end (MongoDB) for functionality, usability, and integration.
+* Designed and executed test scenarios, identifying UI and workflow issues.
 * Conducted load testing with JMeter to verify system performance.
   
 **Student Life – Android Application**<br />
-* Contributed to the development and quality assurance of an Android-based time management application designed to improve student productivity.
-* Designed and executed test cases covering unit, integration, and system testing to validate core application functionality.
-* Validated front-end interactions and back-end data integrity by testing API connections with a MySQL database.
+* Tested an Android time management app through unit, integration, and system testing.
+* Reported and tracked defects, validating front-end interactions and back-end data (MySQL).
+* Collaborated with team members to support timely project delivery.
 
 **Fitness Tracking – Web Application**<br />
-* Participated in end-to-end testing of a user-centric fitness tracking website to ensure functionality, usability, and visual consistency.
-* Executed functional and usability testing across multiple user scenarios, identifying UI and workflow issues prior to release.
+* Tested core features for functionality and usability on a React-based website.
 * Verified front-end components and back-end data to ensure reliability.
+* Supported iterative improvements through testing and feedback.
