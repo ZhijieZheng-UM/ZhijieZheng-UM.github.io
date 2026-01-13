@@ -24,7 +24,7 @@ Detail-oriented software developer with a strong foundation in software testing,
   
 -----
 ### Projects Experience
-**Student life – Android Application**<br />:
+**Student Life – Android Application**<br />:
 * Contributed to the development and quality assurance of an Android-based time management application designed to improve student productivity.
 * Designed and executed comprehensive test cases covering unit, integration, and system testing to validate core application functionality
 * Identified, documented, and tracked software defects, collaborating closely with developers to ensure timely resolution and verification.
