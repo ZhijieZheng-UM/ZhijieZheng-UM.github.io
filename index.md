@@ -7,8 +7,8 @@ Detail-oriented software developer with hands-on experience in software testing.
 
 -----
 ### EDUCATION
-Bachelor of Science, Computer Science <br />
-University of Manitoba, Winnipeg - GPA: 3.8
+**Bachelor of Science, Computer Science** <br />
+     University of Manitoba, Winnipeg - GPA: 3.8
      
 -----
 ### TECHNICAL SKILLS
