@@ -25,7 +25,7 @@ Detail-oriented software developer with a solid foundation in software testing, 
 * Performed functional, usability, and integration testing for an online food ordering platform to validate end-to-end user workflows.
 * Designed and executed test scenarios for front-end features implemented using HTML, CSS, and JavaScript, identifying UI and workflow defects.
 * Tested API integrations between the server and MongoDB database, verifying data accuracy and reliability.
-* Conducted load testing using JMeter to verify system performance against a target of 1000 requests per minute and analyzed test results.
+* Conducted load testing using JMeter to verify system performance against a target of 1000 requests per minute and reviewed test results.
 * Led usability testing sessions and documented findings to support iterative improvements and regression testing.
   
 **Student Life – Android Application**<br />
