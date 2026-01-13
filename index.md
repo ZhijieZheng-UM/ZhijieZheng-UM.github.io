@@ -15,20 +15,21 @@ Detail-oriented software developer with a strong foundation in software testing,
 ### Projects Experience
 **Project developer**<br />
      *Student life (Android Application)*
+     
           *Contributed to the development and quality assurance of an Android-based time management application designed to improve student productivity.
           *Designed and executed comprehensive test cases covering unit, integration, and system testing to validate core application functionality
           *Identified, documented, and tracked software defects, collaborating closely with developers to ensure timely resolution and verification.
           *Validated front-end interactions and back-end data integrity by testing API connections with a MySQL database.
           *Coordinated testing activities and project tasks, supporting on-time delivery of project milestones through effective team collaboration.
      
-****
-:    **Web designer**<br />
-     *Fitness Tracking Web Application*
 
-     * Participated in end-to-end testing of a user-centric fitness tracking website to ensure functionality, usability, and visual consistency.
-     * Executed functional and usability testing across multiple user scenarios, identifying UI and workflow issues prior to release.
-     * Collaborated with developers to validate React-based front-end components built with HTML and CSS.
-     * Gathered and analyzed user feedback, supporting iterative improvements and regression testing cycles.
+**Web designer**<br />
+     *Fitness Tracking Web Application
+
+          * Participated in end-to-end testing of a user-centric fitness tracking website to ensure functionality, usability, and visual consistency.
+          * Executed functional and usability testing across multiple user scenarios, identifying UI and workflow issues prior to release.
+          * Collaborated with developers to validate React-based front-end components built with HTML and CSS.
+          * Gathered and analyzed user feedback, supporting iterative improvements and regression testing cycles.
     
  **Sep 2021 - Jan 2022**   
  :    **Web designer**<br />
