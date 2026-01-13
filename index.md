@@ -22,7 +22,7 @@ Detail-oriented software developer with a strong foundation in software testing,
      * Validated front-end interactions and back-end data integrity by testing API connections with a MySQL database.
      * Coordinated testing activities and project tasks, supporting on-time delivery of project milestones through effective team collaboration.
      
-**Sep 2021 - Jan 2022**
+****
 :    **Web designer**<br />
      *Fitness Tracking Web Application*
 
