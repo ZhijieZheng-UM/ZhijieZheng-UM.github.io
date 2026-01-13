@@ -10,7 +10,6 @@ Detail-oriented software developer with a strong foundation in software testing,
 **Bachelor of Science, Computer Science** <br />
      University of Manitoba, Winnipeg | GPA: 3.8
      
-     
 -----
 ### Technical Skills
 * Testing Types: Manual Testing, Functional Testing, Integration Testing, System Testing, Regression Testing, Usability Testing, Load Testing
