@@ -12,7 +12,7 @@ Detail-oriented software developer with hands-on experience in software testing,
      
 -----
 ### TECHNICAL SKILLS
-* Testing Types: Manual Testing, Functional Testing, Integration Testing, System Testing, Regression Testing, Usability Testing, Load Testing
+* Testing Types: Manual, Functional, Integration, System, Regression, Usability, Load Testing
 * Tools & Practices: JMeter, Postman, Git, Visual Studio
 * Languages & Scripting: Java, JavaScript, Python, C
 * Web & Mobile Technologies: HTML, CSS, React, Android Studio
