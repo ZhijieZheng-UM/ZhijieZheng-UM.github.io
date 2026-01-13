@@ -23,35 +23,31 @@ Detail-oriented software developer with a strong foundation in software testing,
      * Cloud & DevOps: AWS, CI/CD 
 
 **Interpersonal Skills**
-:    1. Critically Analyses
-     2. Teamwork
-     3. Attention to Detail
-     4. Fast Learner
-     5. Problem-solving
-     6. Time Management
+:    * Critically Analyses
+     * Teamwork
+     * Attention to Detail
+     * Fast Learner
+     * Problem-solving
+     * Time Management
      
 -----
 ### Projects Experience
-**Project developer**
-:    **Student life Android Application**<br />
-     
-     *Contributed to the development and quality assurance of an Android-based time management application designed to improve student productivity.
+**Student life – Android Application**<br />
+:    *Contributed to the development and quality assurance of an Android-based time management application designed to improve student productivity.
      *Designed and executed comprehensive test cases covering unit, integration, and system testing to validate core application functionality
      *Identified, documented, and tracked software defects, collaborating closely with developers to ensure timely resolution and verification.
      *Validated front-end interactions and back-end data integrity by testing API connections with a MySQL database.
      *Coordinated testing activities and project tasks, supporting on-time delivery of project milestones through effective team collaboration.
      
 
-**Fitness Tracking Web Application**<br />
+**Fitness Tracking – Web Application**<br />
 :    * Participated in end-to-end testing of a user-centric fitness tracking website to ensure functionality, usability, and visual consistency.
      * Executed functional and usability testing across multiple user scenarios, identifying UI and workflow issues prior to release.
      * Collaborated with developers to validate React-based front-end components built with HTML and CSS.
      * Gathered and analyzed user feedback, supporting iterative improvements and regression testing cycles.
     
- **Web designer**   
-:    **Food Ordering Web Application**<br />
-   
-      * Performed functional, usability, and integration testing for an online food ordering platform.
+**Food Ordering – Web Application**<br />
+:     * Performed functional, usability, and integration testing for an online food ordering platform.
       * Designed and validated test scenarios for front-end features implemented using HTML, CSS, and JavaScript.
       * Tested API integrations between the server and MongoDB database, verifying data accuracy and reliability.
       * Conducted load testing using JMeter to validate system performance against a target of 1000 requests per minute.
