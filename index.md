@@ -31,10 +31,9 @@ Detail-oriented software developer with a strong foundation in software testing,
           * Collaborated with developers to validate React-based front-end components built with HTML and CSS.
           * Gathered and analyzed user feedback, supporting iterative improvements and regression testing cycles.
     
- **Sep 2021 - Jan 2022**   
- :    **Web designer**<br />
-      *Food Ordering Web Application*
-
+ **Web designer**   
+ :    **Food Ordering Web Application**<br />
+   
       * Performed functional, usability, and integration testing for an online food ordering platform.
       * Designed and validated test scenarios for front-end features implemented using HTML, CSS, and JavaScript.
       * Tested API integrations between the server and MongoDB database, verifying data accuracy and reliability.
