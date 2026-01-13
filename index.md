@@ -3,7 +3,7 @@ Winnipeg, MB | (204)590-5931 | Zheng.Zhijie@hotmail.com
 
 -----
 ### Professional Summary
-Detail-oriented software developer with a strong foundation in software testing, test design, and defect tracking, backed by a Computer Science background. Experienced in  testing across web and mobile applications, including functional, integration, system, and load testing. Skilled in collaborating with cross-functional teams to ensure product quality, usability, and reliability throughout the software development lifecycle.
+Detail-oriented software developer with a solid foundation in software testing, test design, and defect tracking, supported by a Computer Science background. Experience in testing web and mobile applications, including functional, integration, system, and load testing. Comfortable working with cross-functional teams to help ensure product quality, usability, and reliability throughout the software development lifecycle.
 
 -----
 ### Education
@@ -30,13 +30,13 @@ Detail-oriented software developer with a strong foundation in software testing,
   
 **Student Life – Android Application**<br />
 * Contributed to the development and quality assurance of an Android-based time management application designed to improve student productivity.
-* Designed and executed comprehensive test cases covering unit, integration, and system testing to validate core application functionality.
-* Identified, documented, and tracked software defects, collaborating closely with developers to ensure timely resolution and verification.
+* Designed and executed test cases covering unit, integration, and system testing to validate core application functionality.
+* Identified, documented, and tracked software defects, collaborating with developers to ensure timely resolution and verification.
 * Validated front-end interactions and back-end data integrity by testing API connections with a MySQL database.
-* Coordinated testing activities and project tasks, supporting on-time delivery of project milestones through effective team collaboration.
+* Coordinated testing activities and project tasks to support on-time delivery of project milestones.
 
 **Fitness Tracking – Web Application**<br />
 * Participated in end-to-end testing of a user-centric fitness tracking website to ensure functionality, usability, and visual consistency.
 * Executed functional and usability testing across multiple user scenarios, identifying UI and workflow issues prior to release.
 * Collaborated with developers to validate React-based front-end components built with HTML and CSS.
-* Gathered and analyzed user feedback, supporting iterative improvements and regression testing cycles.
+* Gathered and analyzed user feedback to support iterative improvements and regression testing cycles.
