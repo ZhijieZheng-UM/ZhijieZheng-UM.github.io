@@ -1,9 +1,6 @@
 # Zhijie Zheng
-      
-Winnipeg, Manitoba         
-(204)590-5931     
-Zheng.Zhijie@hotmail.com 
- 
+Winnipeg, MB | (204)590-5931 | Zheng.Zhijie@hotmail.com 
+
 -----
 ### Profile
 Detail-oriented software developer with a strong foundation in software testing, test design, and defect tracking, backed by a Computer Science background. Experienced in  testing across web and mobile applications, including functional, integration, system, and load testing. Skilled in collaborating with cross-functional teams to ensure product quality, usability, and reliability throughout the software development lifecycle.
