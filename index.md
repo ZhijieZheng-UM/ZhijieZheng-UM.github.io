@@ -14,22 +14,22 @@ Detail-oriented software developer with a strong foundation in software testing,
      
 -----
 ### Technical Skills
-     * Testing Types: Manual Testing, Functional Testing, Integration Testing, System Testing, Regression Testing, Usability Testing, Load Testing
-     * Test Tools & Platforms: JMeter, Android Studio
-     * Languages & Scripting: Java, JavaScript, Python, C
-     * Web & Mobile Technologies: HTML, CSS, React, Android
-     * Databases: MySQL, MongoDB
-     * Tools & Practices: Visual Studio, Git, Postman
-     * Cloud & DevOps: AWS, CI/CD 
+* Testing Types: Manual Testing, Functional Testing, Integration Testing, System Testing, Regression Testing, Usability Testing, Load Testing
+* Test Tools & Platforms: JMeter, Android Studio
+* Languages & Scripting: Java, JavaScript, Python, C
+* Web & Mobile Technologies: HTML, CSS, React, Android
+* Databases: MySQL, MongoDB
+* Tools & Practices: Visual Studio, Git, Postman
+* Cloud & DevOps: AWS, CI/CD 
   
 -----
 ### Projects Experience
 **Student life – Android Application**<br />
-:    *Contributed to the development and quality assurance of an Android-based time management application designed to improve student productivity.
-     *Designed and executed comprehensive test cases covering unit, integration, and system testing to validate core application functionality
-     *Identified, documented, and tracked software defects, collaborating closely with developers to ensure timely resolution and verification.
-     *Validated front-end interactions and back-end data integrity by testing API connections with a MySQL database.
-     *Coordinated testing activities and project tasks, supporting on-time delivery of project milestones through effective team collaboration.
+:    * Contributed to the development and quality assurance of an Android-based time management application designed to improve student productivity.
+     * Designed and executed comprehensive test cases covering unit, integration, and system testing to validate core application functionality
+     * Identified, documented, and tracked software defects, collaborating closely with developers to ensure timely resolution and verification.
+     * Validated front-end interactions and back-end data integrity by testing API connections with a MySQL database.
+     * Coordinated testing activities and project tasks, supporting on-time delivery of project milestones through effective team collaboration.
      
 
 **Fitness Tracking – Web Application**<br />
