@@ -24,8 +24,7 @@ Detail-oriented software developer with a strong foundation in software testing,
           *Coordinated testing activities and project tasks, supporting on-time delivery of project milestones through effective team collaboration.
      
 
-**Web designer**
-:     **Fitness Tracking Web Application**<br />
+**Fitness Tracking Web Application**<br />
 
           * Participated in end-to-end testing of a user-centric fitness tracking website to ensure functionality, usability, and visual consistency.
           * Executed functional and usability testing across multiple user scenarios, identifying UI and workflow issues prior to release.
