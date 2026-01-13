@@ -17,7 +17,7 @@ Detail-oriented software developer with a strong foundation in software testing,
 * Languages & Scripting: Java, JavaScript, Python, C
 * Web & Mobile Technologies: HTML, CSS, React, Android Studio
 * Databases: MySQL, MongoDB
-* Cloud & DevOps: AWS, CI/CD 
+* Cloud & DevOps: Basic knowledge of AWS, CI/CD 
   
 -----
 ### Projects Experience
